@@ -1,9 +1,9 @@
-NFOK17001U - Food Processing Course Notes 
-- Welcome to the NFOK17001U Course Notes repository! 
-This repository is created for students enrolled in the NFOK17001U course at the University of Copenhagen, covering the period from February 2025 to April 2025.
+NFOK24004U - Designing Nutritious Future Dairy Products and Alternatives 
+- Welcome to the NFOK24004U Group Project repository! 
+This repository is created for students enrolled in the NFOK24004U course at the University of Copenhagen, covering the period from August 2025 to September 2025.
 
 Overview 
-- This repository contains notes and materials relevant to the course. It is intended as a resource for students to enhance their learning experience.
+- This repository contains the group project that has been made to finalize the course. It is intended as a resource for students to enhance their learning experience.
 
 Usage 
 - The content within this repository is free to use for everyone.
