@@ -547,11 +547,6 @@ INPUT ./KU_titelpage/logos/ku-logo.pdf
 INPUT ./KU_titelpage/logos/ku-logo.pdf
 INPUT ./KU_titelpage/logos/ku-logo.pdf
 INPUT ./KU_titelpage/logos/ku-logo.pdf
-INPUT ./KU_titelpage/logos/dk_uni.pdf
-INPUT ./KU_titelpage/logos/dk_uni.pdf
-INPUT ./KU_titelpage/logos/dk_uni.pdf
-INPUT ./KU_titelpage/logos/dk_uni.pdf
-INPUT ./KU_titelpage/logos/dk_uni.pdf
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/times/ptmb8t.vf
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
 INPUT /usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map

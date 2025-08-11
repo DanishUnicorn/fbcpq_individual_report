@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.25)  11 AUG 2025 09:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.25)  11 AUG 2025 09:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1500,14 +1500,9 @@ File: KU_titelpage/logos/ku-logo.pdf Graphic file (type pdf)
 <use KU_titelpage/logos/ku-logo.pdf>
 Package pdftex.def Info: KU_titelpage/logos/ku-logo.pdf  used on input line 51.
 (pdftex.def)             Requested size: 597.50787pt x 845.04504pt.
-<KU_titelpage/logos/dk_uni.pdf, id=64, 597.23125pt x 845.1575pt>
-File: KU_titelpage/logos/dk_uni.pdf Graphic file (type pdf)
-<use KU_titelpage/logos/dk_uni.pdf>
-Package pdftex.def Info: KU_titelpage/logos/dk_uni.pdf  used on input line 51.
-(pdftex.def)             Requested size: 113.81102pt x 161.04585pt.
  [1
 
-{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc} <./KU_titelpage/logos/science-english.pdf> <./KU_titelpage/logos/ku-logo.pdf> <./KU_titelpage/logos/dk_uni.pdf>]) (./TexFiles/chapter_01.tex
+{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc} <./KU_titelpage/logos/science-english.pdf> <./KU_titelpage/logos/ku-logo.pdf>]) (./TexFiles/chapter_01.tex
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 9.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
@@ -1578,18 +1573,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 48221 strings out of 474116
- 1020124 string characters out of 5743682
+ 48214 strings out of 474116
+ 1019849 string characters out of 5743682
  1937419 words of memory out of 5000000
- 69773 multiletter control sequences out of 15000+600000
+ 69766 multiletter control sequences out of 15000+600000
  636752 words of font info for 149 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  89i,15n,90p,1245b,1285s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfsx1000.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (10 pages, 341739 bytes).
+Output written on main.pdf (10 pages, 215031 bytes).
 PDF statistics:
- 222 PDF objects out of 1000 (max. 8388607)
- 177 compressed objects within 2 object streams
+ 215 PDF objects out of 1000 (max. 8388607)
+ 174 compressed objects within 2 object streams
  26 named destinations out of 1000 (max. 500000)
- 150 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 139 words of extra memory for PDF output out of 10000 (max. 10000000)
 
