@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber main"] 1748258421.96763 "main.bcf" "main.bbl" "main" 1754378653.68671 0
-  "main.bcf" 1754378653.35894 108348 9e05e655f0afdacc4a8413cff428540f "pdflatex"
+["biber main"] 1748258421.96763 "main.bcf" "main.bbl" "main" 1754898614.929 0
+  "main.bcf" 1754898614.6118 108348 9e05e655f0afdacc4a8413cff428540f "pdflatex"
   "references.bib" 1748245714 533 b0d6363f6f95b5981ad88e2031484f55 ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1754378650.43745 "/Users/bruger/Desktop/Folders/KU/Master/year_1/blok_5/dnfdpa_notes/dnfdpa_project_files/main.tex" "main.pdf" "main" 1754378653.68738 0
-  "/Users/bruger/Desktop/Folders/KU/Master/year_1/blok_5/dnfdpa_notes/dnfdpa_project_files/main.tex" 1748249830 1393 f29d2869bcba06a8e86bcc4e6c2f761e ""
+["pdflatex"] 1754898611.60887 "/Users/bruger/Desktop/Folders/KU/Master/year_1/blok_5/dnfpda_project/dnfdpa_group_project_files/main.tex" "main.pdf" "main" 1754898614.92953 0
+  "/Users/bruger/Desktop/Folders/KU/Master/year_1/blok_5/dnfpda_project/dnfdpa_group_project_files/main.tex" 1748249830 1393 f29d2869bcba06a8e86bcc4e6c2f761e ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -304,13 +304,13 @@
   "TexFiles/chapter_01.tex" 1754292244.05598 3775 f4d96ed233a6016399a6a8591217cdf0 ""
   "TexFiles/chapter_02.tex" 1754378646.25558 3237 dc2ed1e0b458bfb72c0a74c2204fd0e0 ""
   "TexFiles/chapter_04.tex" 1748258451 8085 5b7ba605e1307bc441ccfba88b91f529 ""
-  "TexFiles/frontpage.tex" 1754291881.43724 1522 9d96ad7bdb13b51b55b3b8271ed598fe ""
-  "main.aux" 1754378653.35085 4658 ef3b2e2db17f2f1fd2ae39eae00f4ec2 "pdflatex"
+  "TexFiles/frontpage.tex" 1754898611.28494 1954 ac4fbc2a4df0d3aa8ebd744ef1be3824 ""
+  "main.aux" 1754898614.60375 4658 ef3b2e2db17f2f1fd2ae39eae00f4ec2 "pdflatex"
   "main.bbl" 1748258425.32786 2170 4ca1cbff441aed3aa3a0325853e78c00 "biber main"
-  "main.out" 1754378653.35408 2058 3bd36bb00448a0a9ec94e52d6e4741e2 "pdflatex"
-  "main.run.xml" 1754378653.36034 2305 52095dfad395b381e9a32937e764a41c "pdflatex"
+  "main.out" 1754898614.60693 2058 3bd36bb00448a0a9ec94e52d6e4741e2 "pdflatex"
+  "main.run.xml" 1754898614.61352 2305 52095dfad395b381e9a32937e764a41c "pdflatex"
   "main.tex" 1748249830 1393 f29d2869bcba06a8e86bcc4e6c2f761e ""
-  "main.toc" 1754378653.36049 1152 34b72edb3628c47d622b8626935abac0 "pdflatex"
+  "main.toc" 1754898614.61368 1152 34b72edb3628c47d622b8626935abac0 "pdflatex"
   "preamble.tex" 1748249603 13522 af9f07044796be7ab5911a2b3beff312 ""
   (generated)
   "main.aux"
