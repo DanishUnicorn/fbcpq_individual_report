@@ -16,54 +16,5 @@
   {}
 \endgroup
 
-
-\refsection{0}
-  \datalist[entry]{none/global//global/global}
-    \entry{curr_rm_01_dairy_science_technology}{book}{}
-      \name{author}{3}{}{%
-        {{hash=59b4fcf55270cb247f9436c8390b63b0}{%
-           family={Walstra},
-           familyi={W\bibinitperiod},
-           given={P.},
-           giveni={P\bibinitperiod}}}%
-        {{hash=5ce2f8a9bb4942b142021aebc408e6bc}{%
-           family={Wouters},
-           familyi={W\bibinitperiod},
-           given={J.T.M.},
-           giveni={J\bibinitperiod}}}%
-        {{hash=f04849a509c0d0c292069bc65a6c3297}{%
-           family={Geurts},
-           familyi={G\bibinitperiod},
-           given={T.J.},
-           giveni={T\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {CRC Press}%
-      }
-      \strng{namehash}{7d99c38adfef8dc5534c9d04f28d5ee6}
-      \strng{fullhash}{7d99c38adfef8dc5534c9d04f28d5ee6}
-      \strng{bibnamehash}{7d99c38adfef8dc5534c9d04f28d5ee6}
-      \strng{authorbibnamehash}{7d99c38adfef8dc5534c9d04f28d5ee6}
-      \strng{authornamehash}{7d99c38adfef8dc5534c9d04f28d5ee6}
-      \strng{authorfullhash}{7d99c38adfef8dc5534c9d04f28d5ee6}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{edition}{2}
-      \field{title}{Dairy Science and Technology}
-      \field{year}{2005}
-      \verb{doi}
-      \verb 10.1201/9781420028010
-      \endverb
-      \verb{urlraw}
-      \verb https://doi-org.ep.fjernadgang.kb.dk/10.1201/9781420028010
-      \endverb
-      \verb{url}
-      \verb https://doi-org.ep.fjernadgang.kb.dk/10.1201/9781420028010
-      \endverb
-    \endentry
-  \enddatalist
-\endrefsection
 \endinput
 
