@@ -21,3 +21,4 @@
 \contentsline {section}{\numberline {2}Macronutrient Composition}{14}{section.5.2}%
 \contentsline {subsection}{\numberline {2.1}Protein Content and Quality}{15}{subsection.5.2.1}%
 \contentsline {subsection}{\numberline {2.2}Dietary Fibre Content}{16}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {2.3}Fatty Acid Profile}{18}{subsection.5.2.3}%

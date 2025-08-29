@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.25)  29 AUG 2025 02:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.25)  29 AUG 2025 09:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1203,25 +1203,38 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@thisruleclass=\count515
 \@lastruleclass=\count516
 \@thisrulewidth=\dimen386
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/csvsimple/csvsimple.sty
+Package: csvsimple 2024/01/19 v2.6.0 LaTeX CSV file processing
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/csvsimple/csvsimple-legacy.sty
+Package: csvsimple-legacy 2024/01/19 version 2.6.0 LaTeX2e CSV file processing
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/tools/shellesc.sty
+Package: shellesc 2023/07/08 v1.0d unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 77.
+)
+\csv@file=\read4
+\c@csvinputline=\count517
+\c@csvrow=\count518
+\c@csvcol=\count519
+\csv@out=\write5
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count517
+\lst@mode=\count520
 \lst@gtempboxa=\box152
 \lst@token=\toks60
-\lst@length=\count518
+\lst@length=\count521
 \lst@currlwidth=\dimen387
-\lst@column=\count519
-\lst@pos=\count520
+\lst@column=\count522
+\lst@pos=\count523
 \lst@lostspace=\dimen388
 \lst@width=\dimen389
-\lst@newlines=\count521
-\lst@lineno=\count522
+\lst@newlines=\count524
+\lst@lineno=\count525
 \lst@maxwidth=\dimen390
  (/usr/local/texlive/2024/texmf-dist/tex/latex/listings/lstpatch.sty
 File: lstpatch.sty 2024/02/21 1.10 (Carsten Heinz)
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2024/02/21 1.10 (Carsten Heinz)
-\c@lstnumber=\count523
-\lst@skipnumbers=\count524
+\c@lstnumber=\count526
+\lst@skipnumbers=\count527
 \lst@framebox=\box153
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/listings/listings.cfg
 File: listings.cfg 2024/02/21 1.10 listings configuration
@@ -1241,7 +1254,7 @@ Package: tcolorbox 2024/01/10 version 6.2.0 text color boxes
 Package: verbatim 2023-11-06 v1.5v LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks61
 \verbatim@line=\toks62
-\verbatim@in@stream=\read4
+\verbatim@in@stream=\read5
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/environ/environ.sty
 Package: environ 2014/05/04 v0.3 A new way to define environments
  (/usr/local/texlive/2024/texmf-dist/tex/latex/trimspaces/trimspaces.sty
@@ -1251,9 +1264,9 @@ Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 \tcb@upperbox=\box155
 \tcb@lowerbox=\box156
 \tcb@phantombox=\box157
-\c@tcbbreakpart=\count525
-\c@tcblayer=\count526
-\c@tcolorbox@number=\count527
+\c@tcbbreakpart=\count528
+\c@tcblayer=\count529
+\c@tcolorbox@number=\count530
 \l__tcobox_tmpa_box=\box158
 \l__tcobox_tmpa_dim=\dimen391
 \tcb@temp=\box159
@@ -1264,10 +1277,10 @@ Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 Library (tcolorbox): 'tcbtheorems.code.tex' version '6.2.0'
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbraster.code.tex
 Library (tcolorbox): 'tcbraster.code.tex' version '6.2.0'
-\c@tcbrastercolumn=\count528
-\c@tcbrasterrow=\count529
-\c@tcbrasternum=\count530
-\c@tcbraster=\count531
+\c@tcbrastercolumn=\count531
+\c@tcbrasterrow=\count532
+\c@tcbrasternum=\count533
+\c@tcbraster=\count534
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbskins.code.tex
 Library (tcolorbox): 'tcbskins.code.tex' version '6.2.0'
 (/usr/local/texlive/2024/texmf-dist/tex/latex/tikzfill/tikzfill.image.sty
@@ -1295,13 +1308,13 @@ Library (tcolorbox): 'tcbfitting.code.tex' version '6.2.0'
 \tcbfitdim=\dimen392
 \tcb@lowerfitdim=\dimen393
 \tcb@upperfitdim=\dimen394
-\tcb@cur@hbadness=\count532
+\tcb@cur@hbadness=\count535
 ))
-\c@tcb@cnt@theorem=\count533
-\c@tcb@cnt@definition=\count534
-\c@tcb@cnt@method=\count535
-\c@tcb@cnt@proof=\count536
-\c@tcb@cnt@example=\count537
+\c@tcb@cnt@theorem=\count536
+\c@tcb@cnt@definition=\count537
+\c@tcb@cnt@method=\count538
+\c@tcb@cnt@proof=\count539
+\c@tcb@cnt@example=\count540
  (/usr/local/texlive/2024/texmf-dist/tex/latex/datetime2/datetime2.sty
 Package: datetime2 2021/03/21 v1.5.7 (NLCT) date and time formats
  (/usr/local/texlive/2024/texmf-dist/tex/latex/tracklang/tracklang.sty
@@ -1312,13 +1325,13 @@ Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 \XKV@toks=\toks63
 \XKV@tempa@toks=\toks64
 )
-\XKV@depth=\count538
+\XKV@depth=\count541
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))) (/usr/local/texlive/2024/texmf-dist/tex/latex/lipsum/lipsum.sty
 Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
-\g__lipsum_par_int=\count539
-\l__lipsum_a_int=\count540
-\l__lipsum_b_int=\count541
+\g__lipsum_par_int=\count542
+\l__lipsum_a_int=\count543
+\l__lipsum_b_int=\count544
  (/usr/local/texlive/2024/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex))) (/usr/local/texlive/2024/texmf-dist/tex/generic/chemfig/chemfig.sty (/usr/local/texlive/2024/texmf-dist/tex/generic/chemfig/chemfig.tex (/usr/local/texlive/2024/texmf-dist/tex/generic/simplekv/simplekv.tex
 Package: simplekv 2023/10/02 v0.2c Simple keyval package (CT)
 ) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.code.tex
@@ -1328,12 +1341,12 @@ File: pgflibraryarrows.meta.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfarrowwidth=\dimen397
 \pgfarrowlinewidth=\dimen398
 )
-\CF_cnt_atomgroup=\count542
-\CF_cnt_group=\count543
-\CF_cnt_atom=\count544
-\CF_cnt_cycle=\count545
-\CF_cnt_cyclebonds=\count546
-\CF_cnt_compound=\count547
+\CF_cnt_atomgroup=\count545
+\CF_cnt_group=\count546
+\CF_cnt_atom=\count547
+\CF_cnt_cycle=\count548
+\CF_cnt_cyclebonds=\count549
+\CF_cnt_compound=\count550
 \CF_dim=\dimen399
 \CF_turnangle=\dimen400
 \CF_arrowsize=\dimen401
@@ -1346,9 +1359,10 @@ File: pgflibraryarrows.meta.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
 Package: chemfig 2023/12/28 v1.66 Draw molecule with an easy syntax (CT)
 )
-\@quotelevel=\count548
-\@quotereset=\count549
- (./main.aux)
+\@quotelevel=\count551
+\@quotereset=\count552
+
+No file main.aux.
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
@@ -1369,7 +1383,6 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
-
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -1416,16 +1429,16 @@ Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
  (/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count550
+\scratchcounter=\count553
 \scratchdimen=\dimen403
 \scratchbox=\box171
-\nofMPsegments=\count551
-\nofMParguments=\count552
+\nofMPsegments=\count554
+\nofMParguments=\count555
 \everyMPshowfont=\toks66
-\MPscratchCnt=\count553
+\MPscratchCnt=\count556
 \MPscratchDim=\dimen404
-\MPnumerator=\count554
-\makeMPintoPDFobject=\count555
+\MPnumerator=\count557
+\makeMPintoPDFobject=\count558
 \everyMPtoPDFconversion=\toks67
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -1449,9 +1462,8 @@ Package biblatex Info: ... file 'main.bbl' found.
 Package biblatex Info: Reference section=0 on input line 10.
 Package biblatex Info: Reference segment=0 on input line 10.
 Package hyperref Info: Link coloring ON on input line 10.
- (./main.out) (./main.out)
-\@outlinefile=\write5
-\openout5 = `main.out'.
+\@outlinefile=\write6
+\openout6 = `main.out'.
 
  (/usr/local/texlive/2024/texmf-dist/tex/latex/pdflscape/pdflscape.sty
 Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
@@ -1465,11 +1477,11 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 \c__nicematrix_shift_Ldots_last_row_dim=\dimen405
 \c__nicematrix_shift_exterior_Vdots_dim=\dimen406
 \c__nicematrix_innersep_middle_dim=\dimen407
-\c@tabularnotesi=\count556
-\enitdp@tabularnotes=\count557
-\c@tabularnotes*i=\count558
-\enitdp@tabularnotes*=\count559
-\c@lstlisting=\count560
+\c@tabularnotesi=\count559
+\enitdp@tabularnotes=\count560
+\c@tabularnotes*i=\count561
+\enitdp@tabularnotes*=\count562
+\c@lstlisting=\count563
  (./TexFiles/frontpage.tex
 Grid set 12 x 24 = 49.79231pt x 35.21028pt
 LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 42.
@@ -1498,12 +1510,12 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 42.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 42.
-<KU_titelpage/logos/science-english.pdf, id=92, 597.23125pt x 845.1575pt>
+<KU_titelpage/logos/science-english.pdf, id=8, 597.23125pt x 845.1575pt>
 File: KU_titelpage/logos/science-english.pdf Graphic file (type pdf)
 <use KU_titelpage/logos/science-english.pdf>
 Package pdftex.def Info: KU_titelpage/logos/science-english.pdf  used on input line 51.
 (pdftex.def)             Requested size: 569.05511pt x 805.33243pt.
-<KU_titelpage/logos/ku-logo.pdf, id=94, 597.50829pt x 845.0471pt>
+<KU_titelpage/logos/ku-logo.pdf, id=10, 597.50829pt x 845.0471pt>
 File: KU_titelpage/logos/ku-logo.pdf Graphic file (type pdf)
 <use KU_titelpage/logos/ku-logo.pdf>
 Package pdftex.def Info: KU_titelpage/logos/ku-logo.pdf  used on input line 51.
@@ -1512,16 +1524,10 @@ Package pdftex.def Info: KU_titelpage/logos/ku-logo.pdf  used on input line 51.
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc} <./KU_titelpage/logos/science-english.pdf> <./KU_titelpage/logos/ku-logo.pdf>]) (./TexFiles/chapter_01.tex [1
 
-]) (./main.toc
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
-)
-\tf@toc=\write6
-\openout6 = `main.toc'.
+])
+No file main.toc.
+\tf@toc=\write7
+\openout7 = `main.toc'.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
@@ -1530,7 +1536,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has be
 l.19 \clearpage
                 % ends the page, to ensure page numbering starts on the next... [2] (./TexFiles/chapter_02.tex
 Chapter 1.
-<Figures/fig_01.png, id=150, 291.051pt x 274.9545pt>
+<Figures/fig_01.png, id=45, 291.051pt x 274.9545pt>
 File: Figures/fig_01.png Graphic file (type png)
 <use Figures/fig_01.png>
 Package pdftex.def Info: Figures/fig_01.png  used on input line 15.
@@ -1552,7 +1558,13 @@ LaTeX Font Info:    Trying to load font information for T1+cmss on input line 39
  (/usr/local/texlive/2024/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 ) [2{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}]
-<Figures/fig_02.jpg, id=164, 246.9225pt x 204.765pt>
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 56.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 56.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 56.
+<Figures/fig_02.jpg, id=64, 246.9225pt x 204.765pt>
 File: Figures/fig_02.jpg Graphic file (type jpg)
 <use Figures/fig_02.jpg>
 Package pdftex.def Info: Figures/fig_02.jpg  used on input line 60.
@@ -1568,7 +1580,7 @@ Underfull \hbox (badness 2351) in paragraph at lines 61--61
 []\T1/ptm/b/n/10 Figure 1.2: |[]\T1/ptm/m/it/10 Hemp pro-tein bar by
  []
 
-<Figures/fig_03.jpg, id=165, 395.4775pt x 216.81pt>
+<Figures/fig_03.jpg, id=65, 395.4775pt x 216.81pt>
 File: Figures/fig_03.jpg Graphic file (type jpg)
 <use Figures/fig_03.jpg>
 Package pdftex.def Info: Figures/fig_03.jpg  used on input line 69.
@@ -1578,7 +1590,7 @@ Package wrapfig Warning: Collision between wrapping environments on input line 8
 
 ) (./TexFiles/chapter_03.tex [3 <./Figures/fig_02.jpg> <./Figures/fig_03.jpg>]
 Chapter 2.
-<Figures/fig_prod_concept_01.png, id=174, 752.8125pt x 782.925pt>
+<Figures/fig_prod_concept_01.png, id=73, 752.8125pt x 782.925pt>
 File: Figures/fig_prod_concept_01.png Graphic file (type png)
 <use Figures/fig_prod_concept_01.png>
 Package pdftex.def Info: Figures/fig_prod_concept_01.png  used on input line 12.
@@ -1586,19 +1598,19 @@ Package pdftex.def Info: Figures/fig_prod_concept_01.png  used on input line 12.
 [4
 
 ]
-<Figures/fig_prod_concept_02.png, id=180, 946.53625pt x 601.24625pt>
+<Figures/fig_prod_concept_02.png, id=80, 946.53625pt x 601.24625pt>
 File: Figures/fig_prod_concept_02.png Graphic file (type png)
 <use Figures/fig_prod_concept_02.png>
 Package pdftex.def Info: Figures/fig_prod_concept_02.png  used on input line 23.
 (pdftex.def)             Requested size: 339.72594pt x 215.78793pt.
  [5 <./Figures/fig_prod_concept_01.png> <./Figures/fig_prod_concept_02.png>] [6] [7]) (./TexFiles/chapter_04.tex [8]
 Chapter 3.
-<Figures/fig_formulation_06.png, id=201, 131.4pt x 131.4pt>
+<Figures/fig_formulation_06.png, id=108, 131.4pt x 131.4pt>
 File: Figures/fig_formulation_06.png Graphic file (type png)
 <use Figures/fig_formulation_06.png>
 Package pdftex.def Info: Figures/fig_formulation_06.png  used on input line 30.
 (pdftex.def)             Requested size: 203.83418pt x 203.84633pt.
-<Figures/fig_formulation_06.1.png, id=202, 130.98938pt x 130.98938pt>
+<Figures/fig_formulation_06.1.png, id=109, 130.98938pt x 130.98938pt>
 File: Figures/fig_formulation_06.1.png Graphic file (type png)
 <use Figures/fig_formulation_06.1.png>
 Package pdftex.def Info: Figures/fig_formulation_06.1.png  used on input line 37.
@@ -1607,7 +1619,7 @@ Package pdftex.def Info: Figures/fig_formulation_06.1.png  used on input line 37
 
 ]) (./TexFiles/chapter_05.tex [10 <./Figures/fig_formulation_06.png> <./Figures/fig_formulation_06.1.png>]
 Chapter 4.
-<Figures/fig_process_01.png, id=215, 484.81125pt x 364.36125pt>
+<Figures/fig_process_01.png, id=123, 484.81125pt x 364.36125pt>
 File: Figures/fig_process_01.png Graphic file (type png)
 <use Figures/fig_process_01.png>
 Package pdftex.def Info: Figures/fig_process_01.png  used on input line 8.
@@ -1621,34 +1633,80 @@ Chapter 5.
 ] [15]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 66.
- [16])
+ [16]
+<Figures/tab_df_01.png, id=165, 1041.8925pt x 450.68375pt>
+File: Figures/tab_df_01.png Graphic file (type png)
+<use Figures/tab_df_01.png>
+Package pdftex.def Info: Figures/tab_df_01.png  used on input line 154.
+(pdftex.def)             Requested size: 452.96793pt x 195.9358pt.
+ [17] [18 <./Figures/tab_df_01.png>]
+<Figures/tab_fatty_01.png, id=182, 1180.41pt x 314.17375pt>
+File: Figures/tab_fatty_01.png Graphic file (type png)
+<use Figures/tab_fatty_01.png>
+Package pdftex.def Info: Figures/tab_fatty_01.png  used on input line 188.
+(pdftex.def)             Requested size: 1180.40714pt x 314.17297pt.
+
+./TexFiles/chapter_06.tex:188: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   !
+l.188 ...in=c,width=0.2]{Figures/tab_fatty_01.png}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+)
 
 LaTeX Warning: Empty bibliography on input line 38.
 
-[17] (./main.aux)
+
+Package transparent Warning: Rerun to get transparencies right.
+
+[19 <./Figures/tab_fatty_01.png>] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 21B02C8A0992ECD5B503C6C8F2988C12;3891.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  0FB4508605677BCDDA1697B8459CE622;4049.
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 48217 strings out of 474116
- 1019777 string characters out of 5743682
- 1952627 words of memory out of 5000000
- 69721 multiletter control sequences out of 15000+600000
- 635265 words of font info for 142 fonts, out of 8000000 for 9000
+ 48732 strings out of 474116
+ 1033956 string characters out of 5743682
+ 1962294 words of memory out of 5000000
+ 70231 multiletter control sequences out of 15000+600000
+ 633401 words of font info for 139 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  89i,12n,90p,1395b,852s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfsx1000.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (20 pages, 6371416 bytes).
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfsx1000.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (22 pages, 6555011 bytes).
 PDF statistics:
- 319 PDF objects out of 1000 (max. 8388607)
- 251 compressed objects within 3 object streams
- 55 named destinations out of 1000 (max. 500000)
- 243 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 245 PDF objects out of 1000 (max. 8388607)
+ 174 compressed objects within 2 object streams
+ 61 named destinations out of 1000 (max. 500000)
+ 85 words of extra memory for PDF output out of 10000 (max. 10000000)
 
