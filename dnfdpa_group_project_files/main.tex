@@ -15,7 +15,10 @@
 \addtocontents{toc}{\protect\setcounter{tocdepth}{-1}} % Temporarily disable TOC entries
 \input{TexFiles/chapter_01.tex}
 \addtocontents{toc}{\protect\setcounter{tocdepth}{4}} % Re-enable TOC entries
-\tableofcontents
+\begingroup
+    \pagestyle{empty} % No headers or footers for the TOC page
+    \tableofcontents
+\endgroup
 \clearpage % ends the page, to ensure page numbering starts on the next page where the main text begins
 
 \pagestyle{fancy}

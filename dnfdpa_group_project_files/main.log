@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.25)  29 AUG 2025 12:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.25)  29 AUG 2025 17:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1361,14 +1361,7 @@ Package: chemfig 2023/12/28 v1.66 Draw molecule with an easy syntax (CT)
 )
 \@quotelevel=\count551
 \@quotereset=\count552
- (./main.aux
-
-LaTeX Warning: Label `tab:df_amino_acids_01' multiply defined.
-
-
-LaTeX Warning: Label `tab:fatty_acid_tab_01' multiply defined.
-
-)
+ (./main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
@@ -1492,28 +1485,32 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 \c@lstlisting=\count563
  (./TexFiles/frontpage.tex
 Grid set 12 x 24 = 49.79231pt x 35.21028pt
-LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 42.
+LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 13.
 (/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 42.
+LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 13.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 42.
+LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 13.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 42.
+LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 13.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 42.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 13.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 13.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 42.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 13.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 13.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 42.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
@@ -1528,18 +1525,27 @@ File: KU_titelpage/logos/ku-logo.pdf Graphic file (type pdf)
 <use KU_titelpage/logos/ku-logo.pdf>
 Package pdftex.def Info: KU_titelpage/logos/ku-logo.pdf  used on input line 51.
 (pdftex.def)             Requested size: 597.50787pt x 845.04504pt.
+<KU_titelpage/logos/dk_uni.pdf, id=124, 597.23125pt x 845.1575pt>
+File: KU_titelpage/logos/dk_uni.pdf Graphic file (type pdf)
+<use KU_titelpage/logos/dk_uni.pdf>
+Package pdftex.def Info: KU_titelpage/logos/dk_uni.pdf  used on input line 51.
+(pdftex.def)             Requested size: 113.81102pt x 161.04585pt.
  [1
 
-{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc} <./KU_titelpage/logos/science-english.pdf> <./KU_titelpage/logos/ku-logo.pdf>]) (./TexFiles/chapter_01.tex [1
-
-]) (./main.toc
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
+{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc} <./KU_titelpage/logos/science-english.pdf> <./KU_titelpage/logos/ku-logo.pdf> <./KU_titelpage/logos/dk_uni.pdf>]) (./TexFiles/chapter_01.tex
+LaTeX Font Info:    Calculating math sizes for size <18> on input line 6.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <18> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 6.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <13.3201> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 6.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.80011> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 6.
+) (./main.toc
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
-)
+ [1])
 \tf@toc=\write7
 \openout7 = `main.toc'.
 
@@ -1547,15 +1553,27 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.19 \clearpage
+l.22 \clearpage
                 % ends the page, to ensure page numbering starts on the next... [2] (./TexFiles/chapter_02.tex
-<Figures/fig_01.png, id=190, 291.051pt x 274.9545pt>
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mathsurround' on input line 7.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 7.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 7.
+
+<Figures/fig_01.png, id=197, 291.051pt x 274.9545pt>
 File: Figures/fig_01.png Graphic file (type png)
 <use Figures/fig_01.png>
 Package pdftex.def Info: Figures/fig_01.png  used on input line 15.
 (pdftex.def)             Requested size: 262.72221pt x 248.20775pt.
 LaTeX Font Info:    Trying to load font information for T1+cmss on input line 27.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/base/t1cmss.fd
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
@@ -1569,7 +1587,7 @@ LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 37
  (/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
-<Figures/fig_02.jpg, id=212, 246.9225pt x 204.765pt>
+<Figures/fig_02.jpg, id=218, 246.9225pt x 204.765pt>
 File: Figures/fig_02.jpg Graphic file (type jpg)
 <use Figures/fig_02.jpg>
 Package pdftex.def Info: Figures/fig_02.jpg  used on input line 60.
@@ -1591,7 +1609,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 78.
 See the caption package documentation for explanation.
 
-<Figures/fig_03.jpg, id=224, 395.4775pt x 216.81pt>
+<Figures/fig_03.jpg, id=230, 395.4775pt x 216.81pt>
 File: Figures/fig_03.jpg Graphic file (type jpg)
 <use Figures/fig_03.jpg>
 Package pdftex.def Info: Figures/fig_03.jpg  used on input line 95.
@@ -1601,102 +1619,255 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 96.
 See the caption package documentation for explanation.
 
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mathsurround' on input line 103.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 103.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 103.
+
 [3 <./Figures/fig_02.jpg> <./Figures/fig_03.jpg>]
-<Figures/fig_prod_concept_01.png, id=233, 752.8125pt x 782.925pt>
+<Figures/fig_prod_concept_01.png, id=243, 752.8125pt x 782.925pt>
 File: Figures/fig_prod_concept_01.png Graphic file (type png)
 <use Figures/fig_prod_concept_01.png>
 Package pdftex.def Info: Figures/fig_prod_concept_01.png  used on input line 111.
 (pdftex.def)             Requested size: 244.59962pt x 254.38788pt.
-<Figures/fig_prod_concept_02.png, id=234, 946.53625pt x 601.24625pt>
+LaTeX Font Info:    Calculating math sizes for size <14> on input line 117.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 117.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.36008> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 117.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8.40009> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 117.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mathsurround' on input line 117.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 117.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 117.
+
+<Figures/fig_prod_concept_02.png, id=245, 946.53625pt x 601.24625pt>
 File: Figures/fig_prod_concept_02.png Graphic file (type png)
 <use Figures/fig_prod_concept_02.png>
 Package pdftex.def Info: Figures/fig_prod_concept_02.png  used on input line 122.
-(pdftex.def)             Requested size: 339.72594pt x 215.78793pt.
- [4 <./Figures/fig_prod_concept_01.png>] [5 <./Figures/fig_prod_concept_02.png>] [6] [7]
-<Figures/fig_formulation_06.png, id=256, 131.4pt x 131.4pt>
+(pdftex.def)             Requested size: 330.66464pt x 210.03566pt.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mathsurround' on input line 127.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 127.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 127.
+
+[4 <./Figures/fig_prod_concept_01.png> <./Figures/fig_prod_concept_02.png>] [5]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mathsurround' on input line 155.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 155.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 155.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mathsurround' on input line 161.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 161.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 161.
+
+[6]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mathsurround' on input line 184.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 184.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 184.
+
+[7]
+<Figures/fig_formulation_06.png, id=306, 131.4pt x 131.4pt>
 File: Figures/fig_formulation_06.png Graphic file (type png)
 <use Figures/fig_formulation_06.png>
-Package pdftex.def Info: Figures/fig_formulation_06.png  used on input line 211.
+Package pdftex.def Info: Figures/fig_formulation_06.png  used on input line 210.
 (pdftex.def)             Requested size: 203.83418pt x 203.84633pt.
-<Figures/fig_formulation_06.1.png, id=257, 130.98938pt x 130.98938pt>
+<Figures/fig_formulation_06.1.png, id=307, 130.98938pt x 130.98938pt>
 File: Figures/fig_formulation_06.1.png Graphic file (type png)
 <use Figures/fig_formulation_06.1.png>
-Package pdftex.def Info: Figures/fig_formulation_06.1.png  used on input line 218.
+Package pdftex.def Info: Figures/fig_formulation_06.1.png  used on input line 217.
 (pdftex.def)             Requested size: 203.83418pt x 203.8409pt.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mathsurround' on input line 225.
 
-<Figures/fig_process_01.png, id=258, 484.81125pt x 364.36125pt>
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 225.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 225.
+
+<Figures/fig_process_01.png, id=308, 484.81125pt x 364.36125pt>
 File: Figures/fig_process_01.png Graphic file (type png)
 <use Figures/fig_process_01.png>
-Package pdftex.def Info: Figures/fig_process_01.png  used on input line 231.
+Package pdftex.def Info: Figures/fig_process_01.png  used on input line 229.
 (pdftex.def)             Requested size: 362.37572pt x 272.35846pt.
-[8] [9 <./Figures/fig_formulation_06.png> <./Figures/fig_formulation_06.1.png> <./Figures/fig_process_01.png>] [10]
-<Figures/tab_overall_ingredients_01.png, id=277, 1078.0275pt x 734.745pt>
+[8 <./Figures/fig_formulation_06.png> <./Figures/fig_formulation_06.1.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mathsurround' on input line 266.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 266.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 266.
+
+[9 <./Figures/fig_process_01.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mathsurround' on input line 307.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 307.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 307.
+
+[10]
+<Figures/tab_overall_ingredients_01.png, id=340, 1078.0275pt x 734.745pt>
 File: Figures/tab_overall_ingredients_01.png Graphic file (type png)
 <use Figures/tab_overall_ingredients_01.png>
-Package pdftex.def Info: Figures/tab_overall_ingredients_01.png  used on input line 319.
+Package pdftex.def Info: Figures/tab_overall_ingredients_01.png  used on input line 316.
 (pdftex.def)             Requested size: 452.96793pt x 308.72533pt.
- [11] [12 <./Figures/tab_overall_ingredients_01.png>] [13]
-<Figures/tab_amino_acid_01.png, id=325, 630.355pt x 765.86125pt>
+ [11 <./Figures/tab_overall_ingredients_01.png>] [12]
+<Figures/tab_amino_acid_01.png, id=379, 630.355pt x 765.86125pt>
 File: Figures/tab_amino_acid_01.png Graphic file (type png)
 <use Figures/tab_amino_acid_01.png>
-Package pdftex.def Info: Figures/tab_amino_acid_01.png  used on input line 382.
+Package pdftex.def Info: Figures/tab_amino_acid_01.png  used on input line 385.
 (pdftex.def)             Requested size: 452.96793pt x 550.34456pt.
- [14] [15 <./Figures/tab_amino_acid_01.png>]
-<Figures/tab_df_01.png, id=341, 1041.8925pt x 450.68375pt>
+ [13] [14 <./Figures/tab_amino_acid_01.png>] [15]
+<Figures/tab_df_01.png, id=411, 1041.8925pt x 450.68375pt>
 File: Figures/tab_df_01.png Graphic file (type png)
 <use Figures/tab_df_01.png>
-Package pdftex.def Info: Figures/tab_df_01.png  used on input line 441.
+Package pdftex.def Info: Figures/tab_df_01.png  used on input line 444.
 (pdftex.def)             Requested size: 452.96793pt x 195.9358pt.
- [16] [17 <./Figures/tab_df_01.png>]
-<Figures/tab_fatty_01.png, id=368, 1180.41pt x 314.17375pt>
+<Figures/tab_fatty_01.png, id=414, 1180.41pt x 314.17375pt>
 File: Figures/tab_fatty_01.png Graphic file (type png)
 <use Figures/tab_fatty_01.png>
-Package pdftex.def Info: Figures/tab_fatty_01.png  used on input line 470.
+Package pdftex.def Info: Figures/tab_fatty_01.png  used on input line 467.
 (pdftex.def)             Requested size: 1180.40714pt x 314.17297pt.
- [18 <./Figures/tab_fatty_01.png>]
-<Figures/tab_comp_comparison_01.png, id=375, 1074.0125pt x 457.71pt>
+ [16 <./Figures/tab_df_01.png>] [17 <./Figures/tab_fatty_01.png>]
+<Figures/tab_comp_comparison_01.png, id=430, 1074.0125pt x 457.71pt>
 File: Figures/tab_comp_comparison_01.png Graphic file (type png)
 <use Figures/tab_comp_comparison_01.png>
-Package pdftex.def Info: Figures/tab_comp_comparison_01.png  used on input line 487.
+Package pdftex.def Info: Figures/tab_comp_comparison_01.png  used on input line 484.
 (pdftex.def)             Requested size: 452.96793pt x 193.04005pt.
- [19 <./Figures/tab_comp_comparison_01.png>] [20] [21]) [22]
-Overfull \hbox (0.79146pt too wide) in paragraph at lines 39--39
+ [18 <./Figures/tab_comp_comparison_01.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mathsurround' on input line 496.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 496.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 496.
+
+[19]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mathsurround' on input line 517.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 517.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 517.
+
+[20]) [21]
+Overfull \hbox (0.79146pt too wide) in paragraph at lines 42--42
 \T1/ptm/m/n/10 Im-pli-ca-tions for Op-ti-miz-ing Health''. In: \T1/ptm/m/it/10 Ap-plied Phys-i-ol-ogy, Nu-tri-tion, and Metabolism \T1/ptm/m/n/10 41 (2016), pp. 565^^U
  []
 
-[23
+[22
 
-] [24] [25] (./main.aux)
+]
+Overfull \hbox (8.81223pt too wide) in paragraph at lines 42--42
+\T1/ptm/m/it/10 care (Basel) \T1/ptm/m/n/10 11.3 (2023). PM-CID: PMC9914786, p. 395. \T1/ptm/m/sc/10 doi\T1/ptm/m/n/10 : [][]$10 . 3390 / healthcare11030395$[][]. pmid: [][]$36766971$[][]. 
+ []
+
+
+Overfull \hbox (3.61113pt too wide) in paragraph at lines 42--42
+\T1/ptm/m/n/10 (Cannabis sativa L.) prod-ucts through the use of the pro-tein digestibility-corrected amino acid score method''.
+ []
+
+[23]
+Overfull \hbox (3.74518pt too wide) in paragraph at lines 42--42
+\T1/ptm/m/n/10 ents for Func-tional Foods^^VA Re-view''. In: \T1/ptm/m/it/10 Molecules \T1/ptm/m/n/10 29 (2024), p. 2097. \T1/ptm/m/sc/10 doi\T1/ptm/m/n/10 : [][]$10 . 3390 / molecules29092097$[][]. 
+ []
+
+[24] [25] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
-
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: C93A2761D8FFF5A7FE73098E4EB282FC;5590.
+(rerunfilecheck)             Checksum: 4F230AC26F73107CC361D44A6D110910;5614.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 49106 strings out of 474116
- 1044590 string characters out of 5743682
- 1962415 words of memory out of 5000000
- 70564 multiletter control sequences out of 15000+600000
- 634421 words of font info for 132 fonts, out of 8000000 for 9000
+ 49270 strings out of 474116
+ 1050234 string characters out of 5743682
+ 1964745 words of memory out of 5000000
+ 70702 multiletter control sequences out of 15000+600000
+ 665425 words of font info for 198 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 89i,12n,90p,2222b,1631s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 89i,16n,90p,2222b,1630s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfsx1000.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (28 pages, 6988027 bytes).
+Output written on main.pdf (28 pages, 7125150 bytes).
 PDF statistics:
- 500 PDF objects out of 1000 (max. 8388607)
- 413 compressed objects within 5 object streams
- 105 named destinations out of 1000 (max. 500000)
- 324 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 609 PDF objects out of 1000 (max. 8388607)
+ 516 compressed objects within 6 object streams
+ 123 named destinations out of 1000 (max. 500000)
+ 335 words of extra memory for PDF output out of 10000 (max. 10000000)
 
