@@ -112,6 +112,7 @@ vmargin = {30mm, 30mm} % Top and bottom margin
 \usepackage[table]{xcolor} % For coloring rows in tables
 \usepackage{placeins} % For controlling float positions
 \usepackage{wrapfig} % Usefull to get figures on the right side
+\usepackage{multirow} % For multirow in tables
 
 \usetikzlibrary{fit, backgrounds} % For fitting nodes in tikz
 \usetikzlibrary{arrows,shapes,positioning,decorations.pathreplacing} % For arrows and shapes in tikz
@@ -122,6 +123,12 @@ vmargin = {30mm, 30mm} % Top and bottom margin
   labelfont=bf, % Bold label (Figure x.x, Table x.x)
   textfont=it % Italic text for the caption
 }
+
+\newcommand{\hi}[1]{\cellcolor{green!70}{#1}}
+\newcommand{\midhi}[1]{\cellcolor{green!45}{#1}}
+\newcommand{\lohi}[1]{\cellcolor{green!20}{#1}}
+\newcommand{\worst}[1]{\cellcolor{red!60}{\textcolor{white}{#1}}}
+\newcommand{\na}{\cellcolor{gray!15}{\textemdash}}
 
 % REFERENCING AND CITING ---------------------------------------
 \usepackage[sorting=none]{biblatex} % Add sorting=none to order by citation

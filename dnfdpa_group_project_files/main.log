@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.25)  29 AUG 2025 00:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.25)  29 AUG 2025 02:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1041,8 +1041,8 @@ File: pppdftex.def 2024/01/21 v0.5y Pdfpages driver for pdfTeX (AM)
 \c@AM@survey=\count472
 \AM@templatesizebox=\box149
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 146.
-Package hyperref Info: Option `colorlinks' set `true' on input line 162.
+Package hyperref Info: Option `colorlinks' set `true' on input line 153.
+Package hyperref Info: Option `colorlinks' set `true' on input line 169.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2023/05/13 v2.17o AMS math features
 \@mathmargin=\skip135
@@ -1498,12 +1498,12 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 42.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 42.
-<KU_titelpage/logos/science-english.pdf, id=64, 597.23125pt x 845.1575pt>
+<KU_titelpage/logos/science-english.pdf, id=92, 597.23125pt x 845.1575pt>
 File: KU_titelpage/logos/science-english.pdf Graphic file (type pdf)
 <use KU_titelpage/logos/science-english.pdf>
 Package pdftex.def Info: KU_titelpage/logos/science-english.pdf  used on input line 51.
 (pdftex.def)             Requested size: 569.05511pt x 805.33243pt.
-<KU_titelpage/logos/ku-logo.pdf, id=66, 597.50829pt x 845.0471pt>
+<KU_titelpage/logos/ku-logo.pdf, id=94, 597.50829pt x 845.0471pt>
 File: KU_titelpage/logos/ku-logo.pdf Graphic file (type pdf)
 <use KU_titelpage/logos/ku-logo.pdf>
 Package pdftex.def Info: KU_titelpage/logos/ku-logo.pdf  used on input line 51.
@@ -1530,7 +1530,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has be
 l.19 \clearpage
                 % ends the page, to ensure page numbering starts on the next... [2] (./TexFiles/chapter_02.tex
 Chapter 1.
-<Figures/fig_01.png, id=115, 291.051pt x 274.9545pt>
+<Figures/fig_01.png, id=150, 291.051pt x 274.9545pt>
 File: Figures/fig_01.png Graphic file (type png)
 <use Figures/fig_01.png>
 Package pdftex.def Info: Figures/fig_01.png  used on input line 15.
@@ -1544,148 +1544,111 @@ l.21
 
 
  <./Figures/fig_01.png>]
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 35.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 37.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
-LaTeX Font Info:    Trying to load font information for T1+cmss on input line 37.
+LaTeX Font Info:    Trying to load font information for T1+cmss on input line 39.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 ) [2{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}]
-<Figures/fig_02.jpg, id=129, 246.9225pt x 204.765pt>
+<Figures/fig_02.jpg, id=164, 246.9225pt x 204.765pt>
 File: Figures/fig_02.jpg Graphic file (type jpg)
 <use Figures/fig_02.jpg>
-Package pdftex.def Info: Figures/fig_02.jpg  used on input line 58.
+Package pdftex.def Info: Figures/fig_02.jpg  used on input line 60.
 (pdftex.def)             Requested size: 158.54153pt x 131.47093pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 59.
+(caption)                particular \caption on input line 61.
 See the caption package documentation for explanation.
 
 
-Underfull \hbox (badness 2351) in paragraph at lines 59--59
+Underfull \hbox (badness 2351) in paragraph at lines 61--61
 []\T1/ptm/b/n/10 Figure 1.2: |[]\T1/ptm/m/it/10 Hemp pro-tein bar by
  []
 
-<Figures/fig_03.jpg, id=130, 395.4775pt x 216.81pt>
+<Figures/fig_03.jpg, id=165, 395.4775pt x 216.81pt>
 File: Figures/fig_03.jpg Graphic file (type jpg)
 <use Figures/fig_03.jpg>
-Package pdftex.def Info: Figures/fig_03.jpg  used on input line 67.
+Package pdftex.def Info: Figures/fig_03.jpg  used on input line 69.
 (pdftex.def)             Requested size: 135.89175pt x 74.49847pt.
 
-Package wrapfig Warning: Collision between wrapping environments on input line 80.
+Package wrapfig Warning: Collision between wrapping environments on input line 82.
 
-) (./TexFiles/chapter_04.tex [3 <./Figures/fig_02.jpg> <./Figures/fig_03.jpg>]
+) (./TexFiles/chapter_03.tex [3 <./Figures/fig_02.jpg> <./Figures/fig_03.jpg>]
 Chapter 2.
-LaTeX Font Info:    Calculating math sizes for size <18> on input line 7.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <18> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 7.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <13.3201> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 7.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.80011> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 7.
-
-LaTeX Warning: Citation 'curr_rm_01_dairy_science_technology' on page 4 undefined on input line 10.
-
-
-LaTeX Warning: Citation 'curr_rm_01_dairy_science_technology' on page 4 undefined on input line 13.
-
-
-LaTeX Warning: Citation 'curr_rm_01_dairy_science_technology' on page 4 undefined on input line 17.
-
-
-Overfull \hbox (50.71654pt too wide) in paragraph at lines 17--18
-\T1/ptm/m/n/10 spoilage. Hy-giene in pack-ag-ing is es-sen-tial; rapid tests help de-tect re-con-tam-i-na-tion [[]]. 
- []
-
-
-LaTeX Warning: Citation 'curr_rm_01_dairy_science_technology' on page 4 undefined on input line 20.
-
+<Figures/fig_prod_concept_01.png, id=174, 752.8125pt x 782.925pt>
+File: Figures/fig_prod_concept_01.png Graphic file (type png)
+<use Figures/fig_prod_concept_01.png>
+Package pdftex.def Info: Figures/fig_prod_concept_01.png  used on input line 12.
+(pdftex.def)             Requested size: 244.59962pt x 254.38788pt.
 [4
 
 ]
+<Figures/fig_prod_concept_02.png, id=180, 946.53625pt x 601.24625pt>
+File: Figures/fig_prod_concept_02.png Graphic file (type png)
+<use Figures/fig_prod_concept_02.png>
+Package pdftex.def Info: Figures/fig_prod_concept_02.png  used on input line 23.
+(pdftex.def)             Requested size: 339.72594pt x 215.78793pt.
+ [5 <./Figures/fig_prod_concept_01.png> <./Figures/fig_prod_concept_02.png>] [6] [7]) (./TexFiles/chapter_04.tex [8]
+Chapter 3.
+<Figures/fig_formulation_06.png, id=201, 131.4pt x 131.4pt>
+File: Figures/fig_formulation_06.png Graphic file (type png)
+<use Figures/fig_formulation_06.png>
+Package pdftex.def Info: Figures/fig_formulation_06.png  used on input line 30.
+(pdftex.def)             Requested size: 203.83418pt x 203.84633pt.
+<Figures/fig_formulation_06.1.png, id=202, 130.98938pt x 130.98938pt>
+File: Figures/fig_formulation_06.1.png Graphic file (type png)
+<use Figures/fig_formulation_06.1.png>
+Package pdftex.def Info: Figures/fig_formulation_06.1.png  used on input line 37.
+(pdftex.def)             Requested size: 203.83418pt x 203.8409pt.
+[9
 
-LaTeX Warning: Citation 'curr_rm_01_dairy_science_technology' on page 5 undefined on input line 24.
+]) (./TexFiles/chapter_05.tex [10 <./Figures/fig_formulation_06.png> <./Figures/fig_formulation_06.1.png>]
+Chapter 4.
+<Figures/fig_process_01.png, id=215, 484.81125pt x 364.36125pt>
+File: Figures/fig_process_01.png Graphic file (type png)
+<use Figures/fig_process_01.png>
+Package pdftex.def Info: Figures/fig_process_01.png  used on input line 8.
+(pdftex.def)             Requested size: 362.37572pt x 272.35846pt.
+[11
 
+ <./Figures/fig_process_01.png>] [12]) (./TexFiles/chapter_06.tex [13]
+Chapter 5.
+[14
 
-Overfull \hbox (7.12746pt too wide) in paragraph at lines 24--25
-\T1/ptm/m/n/10 and co-a-les-cence. Lac-tu-lose con-tent is used to iden-tify UHT-treated milk [[]]. 
- []
-
-
-LaTeX Warning: Citation 'curr_rm_01_dairy_science_technology' on page 5 undefined on input line 27.
-
-
-LaTeX Warning: Citation 'curr_rm_01_dairy_science_technology' on page 5 undefined on input line 30.
-
-
-Overfull \hbox (115.16573pt too wide) in paragraph at lines 30--31
-\T1/ptm/m/n/10 tions, and light ef-fects. Shelf life is tested via in-cu-ba-tion, oxy-gen pres-sure, or ATP bi-o-lu-mi-nes-cence [[]]. 
- []
-
-
-LaTeX Warning: Citation 'curr_rm_01_dairy_science_technology' on page 5 undefined on input line 33.
-
-
-LaTeX Warning: Citation 'curr_rm_01_dairy_science_technology' on page 5 undefined on input line 36.
-
-
-LaTeX Warning: Citation 'curr_rm_01_dairy_science_technology' on page 5 undefined on input line 39.
-
-[5]
-
-LaTeX Warning: Citation 'curr_rm_01_dairy_science_technology' on page 6 undefined on input line 42.
-
-
-LaTeX Warning: Citation 'curr_rm_01_dairy_science_technology' on page 6 undefined on input line 45.
-
-
-LaTeX Warning: Citation 'curr_rm_01_dairy_science_technology' on page 6 undefined on input line 48.
-
-
-LaTeX Warning: Citation 'curr_rm_01_dairy_science_technology' on page 6 undefined on input line 51.
-
-
-LaTeX Warning: Citation 'curr_rm_01_dairy_science_technology' on page 6 undefined on input line 54.
-
-)
+] [15]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 66.
+ [16])
 
 LaTeX Warning: Empty bibliography on input line 38.
 
-[6] (./main.aux)
+[17] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 9073F6DD29E08442FB23E66E9BD264B7;2222.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
-
+(rerunfilecheck)             Checksum: 21B02C8A0992ECD5B503C6C8F2988C12;3891.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 48280 strings out of 474116
- 1020939 string characters out of 5743682
- 1941053 words of memory out of 5000000
- 69830 multiletter control sequences out of 15000+600000
- 631371 words of font info for 146 fonts, out of 8000000 for 9000
+ 48217 strings out of 474116
+ 1019777 string characters out of 5743682
+ 1952627 words of memory out of 5000000
+ 69721 multiletter control sequences out of 15000+600000
+ 635265 words of font info for 142 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 89i,15n,90p,1395b,1136s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfsx1000.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (9 pages, 552040 bytes).
+ 89i,12n,90p,1395b,852s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfsx1000.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (20 pages, 6371416 bytes).
 PDF statistics:
- 190 PDF objects out of 1000 (max. 8388607)
- 152 compressed objects within 2 object streams
- 27 named destinations out of 1000 (max. 500000)
- 162 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 319 PDF objects out of 1000 (max. 8388607)
+ 251 compressed objects within 3 object streams
+ 55 named destinations out of 1000 (max. 500000)
+ 243 words of extra memory for PDF output out of 10000 (max. 10000000)
 
