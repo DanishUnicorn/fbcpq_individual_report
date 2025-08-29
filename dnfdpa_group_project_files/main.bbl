@@ -16,5 +16,709 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{art_17}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=d0baa957acb6522d22e3251a428fe067}{%
+           family={{European Parliament and Council of the European Union}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{fullhash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{bibnamehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authorbibnamehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authornamehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authorfullhash}{d0baa957acb6522d22e3251a428fe067}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Official Journal of the European Union, L 304, pp. 18--63}
+      \field{title}{Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004}
+      \field{year}{2011}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011R1169
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011R1169
+      \endverb
+    \endentry
+    \entry{art_16}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=d0baa957acb6522d22e3251a428fe067}{%
+           family={{European Parliament and Council of the European Union}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{fullhash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{bibnamehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authorbibnamehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authornamehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authorfullhash}{d0baa957acb6522d22e3251a428fe067}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Official Journal of the European Union, L 404, pp. 9--25}
+      \field{title}{Regulation (EC) No 1924/2006 of the European Parliament and of the Council of 20 December 2006 on nutrition and health claims made on foods}
+      \field{year}{2006}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex:32006R1924
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex:32006R1924
+      \endverb
+    \endentry
+    \entry{art_08_protein_amino}{article}{}
+      \name{author}{7}{}{%
+        {{hash=8152850780950cc5003728cd17998a0a}{%
+           family={Gorissen},
+           familyi={G\bibinitperiod},
+           given={Stefan\bibnamedelima HM},
+           giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=46614bb753a7be2d4249360f426b43a3}{%
+           family={Crombag},
+           familyi={C\bibinitperiod},
+           given={Julie\bibnamedelima JR},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=fb7dcad3d2162e9c101226f3297e07d5}{%
+           family={Senden},
+           familyi={S\bibinitperiod},
+           given={Joan\bibnamedelima MG},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=622ea41e6b5285857c27b5d44ee0dafb}{%
+           family={Waterval},
+           familyi={W\bibinitperiod},
+           given={WA\bibnamedelima Huub},
+           giveni={W\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=e9aba49d11a6d8277c0adb9913e4da13}{%
+           family={Bierau},
+           familyi={B\bibinitperiod},
+           given={Jörgen},
+           giveni={J\bibinitperiod}}}%
+        {{hash=77b0215729e08564c2a8185efa3dca95}{%
+           family={Verdijk},
+           familyi={V\bibinitperiod},
+           given={Lex\bibnamedelima B},
+           giveni={L\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=9a94836dd2e1ce1cae24c8d7bef0e8ad}{%
+           family={Van\bibnamedelima Loon},
+           familyi={V\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={Luc\bibnamedelima JC},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{56d5c873a217aa6c1cf56b8f80590734}
+      \strng{fullhash}{cf7cac67aff2fc49d6a63c06f6548fbb}
+      \strng{bibnamehash}{56d5c873a217aa6c1cf56b8f80590734}
+      \strng{authorbibnamehash}{56d5c873a217aa6c1cf56b8f80590734}
+      \strng{authornamehash}{56d5c873a217aa6c1cf56b8f80590734}
+      \strng{authorfullhash}{cf7cac67aff2fc49d6a63c06f6548fbb}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Amino acids}
+      \field{number}{12}
+      \field{title}{Protein content and amino acid composition of commercially available plant-based protein isolates}
+      \field{volume}{50}
+      \field{year}{2018}
+      \field{pages}{1685\bibrangedash 1695}
+      \range{pages}{11}
+    \endentry
+    \entry{HempBook}{book}{}
+      \name{author}{2}{}{%
+        {{hash=b63ea3d9a221b10c602d7d1a29a8118c}{%
+           family={Pojic},
+           familyi={P\bibinitperiod},
+           given={Milica},
+           giveni={M\bibinitperiod}}}%
+        {{hash=1baf8e2dfa203052ce28fcba792e546d}{%
+           family={Tiwari},
+           familyi={T\bibinitperiod},
+           given={Brijesh\bibnamedelima K},
+           giveni={B\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Academic Press}%
+      }
+      \strng{namehash}{5362b506c3ca0be7a0f7d5f6c6aa4c23}
+      \strng{fullhash}{5362b506c3ca0be7a0f7d5f6c6aa4c23}
+      \strng{bibnamehash}{5362b506c3ca0be7a0f7d5f6c6aa4c23}
+      \strng{authorbibnamehash}{5362b506c3ca0be7a0f7d5f6c6aa4c23}
+      \strng{authornamehash}{5362b506c3ca0be7a0f7d5f6c6aa4c23}
+      \strng{authorfullhash}{5362b506c3ca0be7a0f7d5f6c6aa4c23}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Industrial Hemp: Food and Nutraceutical Applications}
+      \field{year}{2022}
+    \endentry
+    \entry{frida_food}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=50f2c24ecc6ecedf5e6952e79739c05c}{%
+           family={{DTU Fødevareinstituttet}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{50f2c24ecc6ecedf5e6952e79739c05c}
+      \strng{fullhash}{50f2c24ecc6ecedf5e6952e79739c05c}
+      \strng{bibnamehash}{50f2c24ecc6ecedf5e6952e79739c05c}
+      \strng{authorbibnamehash}{50f2c24ecc6ecedf5e6952e79739c05c}
+      \strng{authornamehash}{50f2c24ecc6ecedf5e6952e79739c05c}
+      \strng{authorfullhash}{50f2c24ecc6ecedf5e6952e79739c05c}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://frida.fooddata.dk/food/59}}
+      \field{note}{Frida fooddata.dk, National Food Institute, Technical University of Denmark}
+      \field{title}{Fødevare ID: 59 — Havregryn, uspec. (Oats, rolled, average values)}
+      \field{urlday}{29}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+    \endentry
+    \entry{art_09_potato_protein}{article}{}
+      \name{author}{2}{}{%
+        {{hash=2ed9cd8bbda026271c7599b28c0b3eef}{%
+           family={PęksA},
+           familyi={P\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod}}}%
+        {{hash=520ca9c198b7037aa238aac927041371}{%
+           family={MiedziAnkA},
+           familyi={M\bibinitperiod},
+           given={Joanna},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{661b137038ba58ef32ae960707aea5b4}
+      \strng{fullhash}{661b137038ba58ef32ae960707aea5b4}
+      \strng{bibnamehash}{661b137038ba58ef32ae960707aea5b4}
+      \strng{authorbibnamehash}{661b137038ba58ef32ae960707aea5b4}
+      \strng{authornamehash}{661b137038ba58ef32ae960707aea5b4}
+      \strng{authorfullhash}{661b137038ba58ef32ae960707aea5b4}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Czech Journal of Food Sciences}
+      \field{number}{3}
+      \field{title}{Amino Acid Composition of Enzymatic ally Hydrolysed Potato Protein Preparations.}
+      \field{volume}{32}
+      \field{year}{2014}
+    \endentry
+    \entry{art_10_hemp_aa}{article}{}
+      \name{author}{3}{}{%
+        {{hash=c33c7fa35fcabb4bf70fb2ab11a59a81}{%
+           family={Hwang},
+           familyi={H\bibinitperiod},
+           given={Hee-Young},
+           giveni={H\bibinithyphendelim Y\bibinitperiod}}}%
+        {{hash=3aec1895811ab3834b6d38a0f654be8d}{%
+           family={Truong},
+           familyi={T\bibinitperiod},
+           given={Van-Long},
+           giveni={V\bibinithyphendelim L\bibinitperiod}}}%
+        {{hash=4249c03ca18501f35c5b3d0585c84394}{%
+           family={Jeong},
+           familyi={J\bibinitperiod},
+           given={Woo-Sik},
+           giveni={W\bibinithyphendelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{99f93a0a8ad2450d74cc87bfe3545527}
+      \strng{fullhash}{99f93a0a8ad2450d74cc87bfe3545527}
+      \strng{bibnamehash}{99f93a0a8ad2450d74cc87bfe3545527}
+      \strng{authorbibnamehash}{99f93a0a8ad2450d74cc87bfe3545527}
+      \strng{authornamehash}{99f93a0a8ad2450d74cc87bfe3545527}
+      \strng{authorfullhash}{99f93a0a8ad2450d74cc87bfe3545527}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Food Bioscience}
+      \field{title}{A comparative study of nutrient compositions, phytochemicals, and antioxidant activities of two dehulled hemp seed cultivars harvested from different regions in the Republic of Korea}
+      \field{volume}{64}
+      \field{year}{2025}
+      \field{pages}{105752}
+      \range{pages}{1}
+    \endentry
+    \entry{art_18_valine}{article}{}
+      \name{author}{4}{}{%
+        {{hash=e50c10009f6c1deffa5bfecb16e2fe9a}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={Shakshi},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0ef4df8e570f77fb3b3eed5f675d8d51}{%
+           family={Azhar},
+           familyi={A\bibinitperiod},
+           given={Gohar},
+           giveni={G\bibinitperiod}}}%
+        {{hash=a2774fbf700a9a255cc47bf56b6d7ac1}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Xiaomin},
+           giveni={X\bibinitperiod}}}%
+        {{hash=2ac0240fa08540a7629de12f6352b4dd}{%
+           family={Wei},
+           familyi={W\bibinitperiod},
+           given={Jeanne},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{54c0157da756984b0620e9c717b66574}
+      \strng{fullhash}{6176727b8418a117a5cbe099a5509ad3}
+      \strng{bibnamehash}{54c0157da756984b0620e9c717b66574}
+      \strng{authorbibnamehash}{54c0157da756984b0620e9c717b66574}
+      \strng{authornamehash}{54c0157da756984b0620e9c717b66574}
+      \strng{authorfullhash}{6176727b8418a117a5cbe099a5509ad3}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Innovation in Aging}
+      \field{number}{Suppl 1}
+      \field{title}{L-VALINE TREATMENT IMPROVES CELLULAR MITOCHONDRIAL FUNCTION}
+      \field{volume}{7}
+      \field{year}{2023}
+      \field{pages}{933}
+      \range{pages}{1}
+    \endentry
+    \entry{art_19_valine_broiler}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a457a121f9d0a41d280acf7f71036a55}{%
+           family={Abbas},
+           familyi={A\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{a457a121f9d0a41d280acf7f71036a55}
+      \strng{fullhash}{a457a121f9d0a41d280acf7f71036a55}
+      \strng{bibnamehash}{a457a121f9d0a41d280acf7f71036a55}
+      \strng{authorbibnamehash}{a457a121f9d0a41d280acf7f71036a55}
+      \strng{authornamehash}{a457a121f9d0a41d280acf7f71036a55}
+      \strng{authorfullhash}{a457a121f9d0a41d280acf7f71036a55}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Scientific Research}
+      \field{number}{4}
+      \field{title}{Valine in Broiler Diets: A Review}
+      \field{volume}{3}
+      \field{year}{2024}
+      \field{pages}{11\bibrangedash 40}
+      \range{pages}{30}
+    \endentry
+    \entry{art_20_regulation4322012}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=a1b813a6e85874b4c945aec2cdbea74c}{%
+           family={{European Commission}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{fullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{bibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorbibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authornamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorfullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Official Journal of the European Union, L 136, pp. 1--40}
+      \field{title}{Commission Regulation (EU) No 432/2012 of 16 May 2012 establishing a list of permitted health claims made on foods, other than those referring to the reduction of disease risk and to children's development and health}
+      \field{year}{2012}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R0432
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R0432
+      \endverb
+    \endentry
+    \entry{art_12_df_oats_01}{article}{}
+      \name{author}{6}{}{%
+        {{hash=f0ca78ab313b6e047b2b75e5851119e1}{%
+           family={Dodevska},
+           familyi={D\bibinitperiod},
+           given={Margarita\bibnamedelima S},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=88894023b1a609ccee559d74d88251fa}{%
+           family={Djordjevic},
+           familyi={D\bibinitperiod},
+           given={Brizita\bibnamedelima I},
+           giveni={B\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=5612258b647357c5dde937c78b71e1fb}{%
+           family={Sobajic},
+           familyi={S\bibinitperiod},
+           given={Sladjana\bibnamedelima S},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=a0b87d2f9a5878e0a904fc9b6c763b45}{%
+           family={Miletic},
+           familyi={M\bibinitperiod},
+           given={Ivanka\bibnamedelima D},
+           giveni={I\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=572419b342e98c8c5ece7d586193937d}{%
+           family={Djordjevic},
+           familyi={D\bibinitperiod},
+           given={Predrag\bibnamedelima B},
+           giveni={P\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=bbc124ea6e049b9c866708c8a678446f}{%
+           family={Dimitrijevic-Sreckovic},
+           familyi={D\bibinithyphendelim S\bibinitperiod},
+           given={Vesna\bibnamedelima S},
+           giveni={V\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{1ac1bd0c0e2029a1f7819cf4bfa8bce0}
+      \strng{fullhash}{fd851584c588960caa86cdb04fcb738a}
+      \strng{bibnamehash}{1ac1bd0c0e2029a1f7819cf4bfa8bce0}
+      \strng{authorbibnamehash}{1ac1bd0c0e2029a1f7819cf4bfa8bce0}
+      \strng{authornamehash}{1ac1bd0c0e2029a1f7819cf4bfa8bce0}
+      \strng{authorfullhash}{fd851584c588960caa86cdb04fcb738a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Food Chemistry}
+      \field{number}{3}
+      \field{title}{Characterisation of dietary fibre components in cereals and legumes used in Serbian diet}
+      \field{volume}{141}
+      \field{year}{2013}
+      \field{pages}{1624\bibrangedash 1629}
+      \range{pages}{6}
+    \endentry
+    \entry{art_13_df_oats_02}{article}{}
+      \name{author}{3}{}{%
+        {{hash=152ef770944eb7dd1adaaa24ded8a2ef}{%
+           family={Knudsen},
+           familyi={K\bibinitperiod},
+           given={Knud\bibnamedelimb Erik\bibnamedelima Bach},
+           giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=985c933861a28dca41a131225016fe9d}{%
+           family={Jensen},
+           familyi={J\bibinitperiod},
+           given={Bent\bibnamedelima Borg},
+           giveni={B\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=c60828be37f7d4899c82d46a55289271}{%
+           family={Hansen},
+           familyi={H\bibinitperiod},
+           given={Inge},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{300742eba2153ae13c05978dcd073abe}
+      \strng{fullhash}{300742eba2153ae13c05978dcd073abe}
+      \strng{bibnamehash}{300742eba2153ae13c05978dcd073abe}
+      \strng{authorbibnamehash}{300742eba2153ae13c05978dcd073abe}
+      \strng{authornamehash}{300742eba2153ae13c05978dcd073abe}
+      \strng{authorfullhash}{300742eba2153ae13c05978dcd073abe}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{British journal of nutrition}
+      \field{number}{2}
+      \field{title}{Digestion of polysaccharides and other major components in the small and large intestine of pigs fed on diets consisting of oat fractions rich in $\beta$-D-glucan}
+      \field{volume}{70}
+      \field{year}{1993}
+      \field{pages}{537\bibrangedash 556}
+      \range{pages}{20}
+    \endentry
+    \entry{art_14_df_hemp}{article}{}
+      \name{author}{7}{}{%
+        {{hash=ad4d82aef7eb93e825defded9e01ad3a}{%
+           family={Ramos-Sanchez},
+           familyi={R\bibinithyphendelim S\bibinitperiod},
+           given={Ricardo},
+           giveni={R\bibinitperiod}}}%
+        {{hash=dad3f0808de0cc4d92c407741a383417}{%
+           family={Hayward},
+           familyi={H\bibinitperiod},
+           given={Nicholas\bibnamedelima J},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=4d3aa887d9a620482c7af2ad4094de3b}{%
+           family={Henderson},
+           familyi={H\bibinitperiod},
+           given={Donna},
+           giveni={D\bibinitperiod}}}%
+        {{hash=696b45bd46fef0df72255e12cde77910}{%
+           family={Duncan},
+           familyi={D\bibinitperiod},
+           given={Gary\bibnamedelima J},
+           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=4ab4d0572ab692277804ada5711c9a83}{%
+           family={Russell},
+           familyi={R\bibinitperiod},
+           given={Wendy\bibnamedelima R},
+           giveni={W\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=6ca776ff5c67d4aa6af738a8d3da172a}{%
+           family={Duncan},
+           familyi={D\bibinitperiod},
+           given={Sylvia\bibnamedelima H},
+           giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=dbfa25104cd23a7d2cdb2bf459765db4}{%
+           family={Neacsu},
+           familyi={N\bibinitperiod},
+           given={Madalina},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{473355531c8dc0c58654276bb5379031}
+      \strng{fullhash}{e1340d75082ce3e8c6d0ce0990f2fe0c}
+      \strng{bibnamehash}{473355531c8dc0c58654276bb5379031}
+      \strng{authorbibnamehash}{473355531c8dc0c58654276bb5379031}
+      \strng{authornamehash}{473355531c8dc0c58654276bb5379031}
+      \strng{authorfullhash}{e1340d75082ce3e8c6d0ce0990f2fe0c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Foods}
+      \field{number}{5}
+      \field{title}{Hemp seed-based foods and processing by-products are sustainable rich sources of nutrients and plant metabolites supporting dietary biodiversity, health, and nutritional needs}
+      \field{volume}{14}
+      \field{year}{2025}
+      \field{pages}{875}
+      \range{pages}{1}
+    \endentry
+    \entry{art_24_oat_kilning}{article}{}
+      \name{author}{8}{}{%
+        {{hash=d9c16b7e8b0d61f26ae90336ba5b570f}{%
+           family={Ekelund},
+           familyi={E\bibinitperiod},
+           given={Sofie},
+           giveni={S\bibinitperiod}}}%
+        {{hash=815f49bd7f840ecb62df87c3cf08b6b6}{%
+           family={Gladkauskas},
+           familyi={G\bibinitperiod},
+           given={Eimantas},
+           giveni={E\bibinitperiod}}}%
+        {{hash=42ff456b074695bd99f1b8dd246e52ad}{%
+           family={Krause},
+           familyi={K\bibinitperiod},
+           given={Svenja},
+           giveni={S\bibinitperiod}}}%
+        {{hash=b1ead10610e1051b09e8b69d12331db8}{%
+           family={Sirijovski},
+           familyi={S\bibinitperiod},
+           given={Nick},
+           giveni={N\bibinitperiod}}}%
+        {{hash=cd9cab60327cb784f9dc9aa1c81237f3}{%
+           family={Adlercreutz},
+           familyi={A\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod}}}%
+        {{hash=54b8916505e594dc77edcbef5b08f1f1}{%
+           family={Rayner},
+           familyi={R\bibinitperiod},
+           given={Marilyn},
+           giveni={M\bibinitperiod}}}%
+        {{hash=96e8f9da40c7f1a18ae6161937f10f53}{%
+           family={Grey},
+           familyi={G\bibinitperiod},
+           given={Carl},
+           giveni={C\bibinitperiod}}}%
+        {{hash=5ce5e7d7d1e5f7e4a1fb3361432cc70f}{%
+           family={Tullberg},
+           familyi={T\bibinitperiod},
+           given={Cecilia},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{4a0b657cb10f1cbbd198677cce1d2761}
+      \strng{fullhash}{38febf2573b2645bf902cd051a5af814}
+      \strng{bibnamehash}{4a0b657cb10f1cbbd198677cce1d2761}
+      \strng{authorbibnamehash}{4a0b657cb10f1cbbd198677cce1d2761}
+      \strng{authornamehash}{4a0b657cb10f1cbbd198677cce1d2761}
+      \strng{authorfullhash}{38febf2573b2645bf902cd051a5af814}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Foods}
+      \field{number}{24}
+      \field{title}{Oat Kilning and Its Effects on Liquid Oat-Base Production}
+      \field{volume}{13}
+      \field{year}{2024}
+      \field{pages}{4083}
+      \range{pages}{1}
+    \endentry
+    \entry{art_15_df_research}{article}{}
+      \name{author}{5}{}{%
+        {{hash=dccc3a9f0cfcfb022e3ff7d183765aa0}{%
+           family={Mrabet},
+           familyi={M\bibinitperiod},
+           given={Abdessalem},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e5fef8ca32a99f21a709fdb801e59e75}{%
+           family={Hammadi},
+           familyi={H\bibinitperiod},
+           given={Hamza},
+           giveni={H\bibinitperiod}}}%
+        {{hash=a051dcdf36f2118d133ed2d87d62f1e9}{%
+           family={Rodríguez-Gutiérrez},
+           familyi={R\bibinithyphendelim G\bibinitperiod},
+           given={Guillermo},
+           giveni={G\bibinitperiod}}}%
+        {{hash=da4385edb6ee35e4abd2e214e5c23862}{%
+           family={Jiménez-Araujo},
+           familyi={J\bibinithyphendelim A\bibinitperiod},
+           given={Ana},
+           giveni={A\bibinitperiod}}}%
+        {{hash=6c418b03f08df52bee319bcdb143df5d}{%
+           family={Sindic},
+           familyi={S\bibinitperiod},
+           given={Marianne},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Japanese Society for Food Science}%
+        {Technology}%
+      }
+      \strng{namehash}{3bf8c8eb73dcacb096e6672d9a6a3766}
+      \strng{fullhash}{00d344f36ede76dc68d090f6d0933683}
+      \strng{bibnamehash}{3bf8c8eb73dcacb096e6672d9a6a3766}
+      \strng{authorbibnamehash}{3bf8c8eb73dcacb096e6672d9a6a3766}
+      \strng{authornamehash}{3bf8c8eb73dcacb096e6672d9a6a3766}
+      \strng{authorfullhash}{00d344f36ede76dc68d090f6d0933683}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Food Science and Technology Research}
+      \field{number}{1}
+      \field{title}{Date palm fruits as a potential source of functional dietary fiber: A review}
+      \field{volume}{25}
+      \field{year}{2019}
+      \field{pages}{1\bibrangedash 10}
+      \range{pages}{10}
+    \endentry
+    \entry{art_21_hemp_review}{article}{}
+      \name{author}{4}{}{%
+        {{hash=908f0beb928220b427960f3162b81051}{%
+           family={Tănase\bibnamedelima Apetroaei},
+           familyi={T\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Virginia},
+           giveni={V\bibinitperiod}}}%
+        {{hash=a697066f51def8fcffcacc8ec29f0409}{%
+           family={Pricop},
+           familyi={P\bibinitperiod},
+           given={Eugenia\bibnamedelima Mihaela},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=f5832703a25da52c96750b4a3817376b}{%
+           family={Istrati},
+           familyi={I\bibinitperiod},
+           given={Daniela\bibnamedelima Ionela},
+           giveni={D\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=0885e2b25381e56162a07881f99c5aed}{%
+           family={Vizireanu},
+           familyi={V\bibinitperiod},
+           given={Camelia},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{c7e97928828786e4005f71bdeac2b60e}
+      \strng{fullhash}{b771b7366daac3b0b56a6cde2637bf58}
+      \strng{bibnamehash}{c7e97928828786e4005f71bdeac2b60e}
+      \strng{authorbibnamehash}{c7e97928828786e4005f71bdeac2b60e}
+      \strng{authornamehash}{c7e97928828786e4005f71bdeac2b60e}
+      \strng{authorfullhash}{b771b7366daac3b0b56a6cde2637bf58}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Molecules}
+      \field{number}{9}
+      \field{title}{Hemp seeds (Cannabis sativa L.) as a valuable source of natural ingredients for functional foods—A review}
+      \field{volume}{29}
+      \field{year}{2024}
+      \field{pages}{2097}
+      \range{pages}{1}
+    \endentry
+    \entry{art_22_efsa_fats}{article}{}
+      \name{author}{2}{}{%
+        {{hash=d4af369e340767444ed376f8c823a2fd}{%
+           family={EFSA\bibnamedelimb Panel\bibnamedelimb on\bibnamedelimb Dietetic\bibnamedelima Products},
+           familyi={E\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={Nutrition},
+           giveni={N\bibinitperiod}}}%
+        {{hash=db19a1d16f7704bbee69ee0eaa4ae254}{%
+           family={(NDA)},
+           familyi={(\bibinitperiod},
+           given={Allergies},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{43546c76c39cbd9b573e3cf5c4e5c29d}
+      \strng{fullhash}{43546c76c39cbd9b573e3cf5c4e5c29d}
+      \strng{bibnamehash}{43546c76c39cbd9b573e3cf5c4e5c29d}
+      \strng{authorbibnamehash}{43546c76c39cbd9b573e3cf5c4e5c29d}
+      \strng{authornamehash}{43546c76c39cbd9b573e3cf5c4e5c29d}
+      \strng{authorfullhash}{43546c76c39cbd9b573e3cf5c4e5c29d}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Efsa Journal}
+      \field{number}{3}
+      \field{title}{Scientific opinion on dietary reference values for fats, including saturated fatty acids, polyunsaturated fatty acids, monounsaturated fatty acids, trans fatty acids, and cholesterol}
+      \field{volume}{8}
+      \field{year}{2010}
+      \field{pages}{1461}
+      \range{pages}{1}
+    \endentry
+    \entry{art_23_regulation1162010}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=a1b813a6e85874b4c945aec2cdbea74c}{%
+           family={{European Commission}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{fullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{bibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorbibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authornamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorfullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Official Journal of the European Union, L 37, pp. 16--18}
+      \field{title}{Commission Regulation (EU) No 116/2010 of 9 February 2010 amending Regulation (EC) No 1924/2006 of the European Parliament and of the Council with regard to the list of nutrition claims}
+      \field{year}{2010}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R0116
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R0116
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 
