@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 1756460008.56304 "main.bcf" "main.bbl" "main" 1756460013.21387 0
-  "main.bcf" 1756459812.02471 108711 40770280259ea3157da8d16a0e103180 "pdflatex"
-  "references.bib" 1756460008.06668 12834 d71fadf82e3041463b59a1969c6ecc0a ""
+["biber main"] 1756462128.0825 "main.bcf" "main.bbl" "main" 1756462854.58757 0
+  "main.bcf" 1756462854.25639 109803 eb77fc169343f528eeccdfaeb35abe16 "pdflatex"
+  "references.bib" 1756462049.94831 19208 f7dc806068d51fbda0f35c479f3d5666 ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1756459806.3319 "/Users/bruger/Desktop/Folders/KU/Master/year_1/blok_5/dnfpda_project/dnfdpa_group_project_files/main.tex" "main.pdf" "main" 1756460013.21398 0
+["pdflatex"] 1756462848.95698 "/Users/bruger/Desktop/Folders/KU/Master/year_1/blok_5/dnfpda_project/dnfdpa_group_project_files/main.tex" "main.pdf" "main" 1756462854.58806 0
   "/Users/bruger/Desktop/Folders/KU/Master/year_1/blok_5/dnfpda_project/dnfdpa_group_project_files/main.tex" 1756456677.3036 1394 1d6f996e06d7d1fd78b66801c9d16c60 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
@@ -322,14 +322,14 @@
   "KU_titelpage/logos/ku-logo.pdf" 1742841047 48708 4aedfa43de4813eae411d2450b66ff1c ""
   "KU_titelpage/logos/science-english.pdf" 1742841047 71141 827ec2c5d6f797163b848e34358df682 ""
   "TexFiles/chapter_01.tex" 1756418906.21699 2165 f445ce3a6bc5f9551b99c29e4a3a1f7e ""
-  "TexFiles/chapter_02.tex" 1756459805.88937 60298 2004ece3e594bf25104d249ac5a4c1ee ""
+  "TexFiles/chapter_02.tex" 1756462842.60555 59878 0b3d9cc11e74dfd67ff5559c8b032e93 ""
   "TexFiles/frontpage.tex" 1756427552.1633 1955 017032b782623f771e7599a3fdd20b3d ""
-  "main.aux" 1756459812.01451 17340 e937aa4e603b0ca7e27e6bb34cc02cd4 "pdflatex"
-  "main.bbl" 1756460013.11984 31199 d8e0fbeae129dd100f304da4edc45dcb "biber main"
-  "main.out" 1756459812.01969 5590 c93a2761d8fff5a7fe73098e4eb282fc "pdflatex"
-  "main.run.xml" 1756459812.02632 2305 52095dfad395b381e9a32937e764a41c "pdflatex"
+  "main.aux" 1756462854.24362 19261 91b65d26c567ecbe3685e73a22349fac "pdflatex"
+  "main.bbl" 1756462133.15789 44797 9eb00f42b4bdb0d5b36db9d7fd7cdf01 "biber main"
+  "main.out" 1756462854.2507 5590 c93a2761d8fff5a7fe73098e4eb282fc "pdflatex"
+  "main.run.xml" 1756462854.25777 2305 52095dfad395b381e9a32937e764a41c "pdflatex"
   "main.tex" 1756456677.3036 1394 1d6f996e06d7d1fd78b66801c9d16c60 ""
-  "main.toc" 1756459812.0265 2743 1ac4fdfff078844009d0522e31ddb25e "pdflatex"
+  "main.toc" 1756462854.25796 2743 1ac4fdfff078844009d0522e31ddb25e "pdflatex"
   "preamble.tex" 1756451968.476 13955 757a8019001f949af4d0b03f9882ba48 ""
   (generated)
   "main.aux"

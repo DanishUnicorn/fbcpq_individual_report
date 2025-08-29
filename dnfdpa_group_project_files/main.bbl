@@ -19,6 +19,321 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global}
+    \entry{Ferrari2022AnimalPlantProtein}{article}{}
+      \name{author}{4}{}{%
+        {{hash=db51245f15159b93e6d3d064f2104c9b}{%
+           family={Ferrari},
+           familyi={F\bibinitperiod},
+           given={Luca},
+           giveni={L\bibinitperiod}}}%
+        {{hash=402b6246544268f289f6e537656d7538}{%
+           family={Panaite},
+           familyi={P\bibinitperiod},
+           given={Silvia-Anca},
+           giveni={S\bibinithyphendelim A\bibinitperiod}}}%
+        {{hash=c56dea628273d44a2e7431d6f17f0d3e}{%
+           family={Bertazzo},
+           familyi={B\bibinitperiod},
+           given={Alessandra},
+           giveni={A\bibinitperiod}}}%
+        {{hash=857b01be19ce71fddda8730887c45863}{%
+           family={Visioli},
+           familyi={V\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{852bd720b7947d008aa7e66d6621e6b5}
+      \strng{fullhash}{f04fcd3063f839c65ecb9990fd82f093}
+      \strng{bibnamehash}{852bd720b7947d008aa7e66d6621e6b5}
+      \strng{authorbibnamehash}{852bd720b7947d008aa7e66d6621e6b5}
+      \strng{authornamehash}{852bd720b7947d008aa7e66d6621e6b5}
+      \strng{authorfullhash}{f04fcd3063f839c65ecb9990fd82f093}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nutrients}
+      \field{number}{23}
+      \field{title}{Animal- and Plant-Based Protein Sources: A Scoping Review of Human Health Outcomes and Environmental Impact}
+      \field{volume}{14}
+      \field{year}{2022}
+      \field{pages}{5115}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/nu14235115
+      \endverb
+    \endentry
+    \entry{Phillips2016ProteinBeyondRDA}{article}{}
+      \name{author}{3}{}{%
+        {{hash=e88ea5ceacb6f4480db3193e5a2dac1f}{%
+           family={Phillips},
+           familyi={P\bibinitperiod},
+           given={Stuart\bibnamedelima M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=e230f8cc68a42f1a5833a23aa8d04526}{%
+           family={Chevalier},
+           familyi={C\bibinitperiod},
+           given={Stephanie},
+           giveni={S\bibinitperiod}}}%
+        {{hash=18b643c515a4002f13d96539bc3c8301}{%
+           family={Leidy},
+           familyi={L\bibinitperiod},
+           given={Heather\bibnamedelima J.},
+           giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{cd8a9d3ce8c48ac57495447c3c6f0231}
+      \strng{fullhash}{cd8a9d3ce8c48ac57495447c3c6f0231}
+      \strng{bibnamehash}{cd8a9d3ce8c48ac57495447c3c6f0231}
+      \strng{authorbibnamehash}{cd8a9d3ce8c48ac57495447c3c6f0231}
+      \strng{authornamehash}{cd8a9d3ce8c48ac57495447c3c6f0231}
+      \strng{authorfullhash}{cd8a9d3ce8c48ac57495447c3c6f0231}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Physiology, Nutrition, and Metabolism}
+      \field{title}{Protein ``Requirements'' beyond the RDA: Implications for Optimizing Health}
+      \field{volume}{41}
+      \field{year}{2016}
+      \field{pages}{565\bibrangedash 572}
+      \range{pages}{8}
+    \endentry
+    \entry{henchion2017futureprotein}{article}{}
+      \name{author}{5}{}{%
+        {{hash=890f52be7f0e95db9c7126197d27f844}{%
+           family={Henchion},
+           familyi={H\bibinitperiod},
+           given={Maeve},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7b4f30b9eb86bc2a19398efef993c9ff}{%
+           family={Hayes},
+           familyi={H\bibinitperiod},
+           given={Maria},
+           giveni={M\bibinitperiod}}}%
+        {{hash=6cc3dbbd481f0805f83fcfbdefd68ebb}{%
+           family={Mullen},
+           familyi={M\bibinitperiod},
+           given={Anne\bibnamedelima Maria},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=fdd2ece03b05e32cc8d08eeafa6a695f}{%
+           family={Fenelon},
+           familyi={F\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=fc3ae6a678c87a1681659c0a5c540218}{%
+           family={Tiwari},
+           familyi={T\bibinitperiod},
+           given={Brijesh},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{de62c71d449146097e4e2bdc5876e5a1}
+      \strng{fullhash}{34c273b0d415af25126e2fdc0304d2c9}
+      \strng{bibnamehash}{de62c71d449146097e4e2bdc5876e5a1}
+      \strng{authorbibnamehash}{de62c71d449146097e4e2bdc5876e5a1}
+      \strng{authornamehash}{de62c71d449146097e4e2bdc5876e5a1}
+      \strng{authorfullhash}{34c273b0d415af25126e2fdc0304d2c9}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A growing global population, combined with factors such as changing socio-demographics, will place increased pressure on the world’s resources to provide not only more but also different types of food. Increased demand for animal-based protein in particular is expected to have a negative environmental impact, generating greenhouse gas emissions, requiring more water and more land. Addressing this “perfect storm” will necessitate more sustainable production of existing sources of protein as well as alternative sources for direct human consumption. This paper outlines some potential demand scenarios and provides an overview of selected existing and novel protein sources in terms of their potential to sustainably deliver protein for the future, considering drivers and challenges relating to nutritional, environmental, and technological and market/consumer domains. It concludes that different factors influence the potential of existing and novel sources. Existing protein sources are primarily hindered by their negative environmental impacts with some concerns around health. However, they offer social and economic benefits, and have a high level of consumer acceptance. Furthermore, recent research emphasizes the role of livestock as part of the solution to greenhouse gas emissions, and indicates that animal-based protein has an important role as part of a sustainable diet and as a contributor to food security. Novel proteins require the development of new value chains, and attention to issues such as production costs, food safety, scalability and consumer acceptance. Furthermore, positive environmental impacts cannot be assumed with novel protein sources and care must be taken to ensure that comparisons between novel and existing protein sources are valid. Greater alignment of political forces, and the involvement of wider stakeholders in a governance role, as well as development/commercialization role, is required to address both sources of protein and ensure food security.}
+      \field{issn}{2304-8158}
+      \field{journaltitle}{Foods}
+      \field{number}{7}
+      \field{title}{Future Protein Supply and Demand: Strategies and Factors Influencing a Sustainable Equilibrium}
+      \field{volume}{6}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.3390/foods6070053
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2304-8158/6/7/53
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2304-8158/6/7/53
+      \endverb
+    \endentry
+    \entry{Richardson2023EarthBeyondBoundaries}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=e8ad313d664bf91685f3dc86695a4fe8}{%
+           family={Richardson},
+           familyi={R\bibinitperiod},
+           given={Katherine},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{3c0e37907f87bd0632af9dccfbf9d236}
+      \strng{fullhash}{3c0e37907f87bd0632af9dccfbf9d236}
+      \strng{bibnamehash}{3c0e37907f87bd0632af9dccfbf9d236}
+      \strng{authorbibnamehash}{3c0e37907f87bd0632af9dccfbf9d236}
+      \strng{authornamehash}{3c0e37907f87bd0632af9dccfbf9d236}
+      \strng{authorfullhash}{3c0e37907f87bd0632af9dccfbf9d236}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science Advances}
+      \field{title}{Earth Beyond Six of Nine Planetary Boundaries}
+      \field{volume}{9}
+      \field{year}{2023}
+      \field{pages}{eadh2458}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1126/sciadv.adh2458
+      \endverb
+    \endentry
+    \entry{OECDFAO2023Outlook}{book}{}
+      \name{author}{2}{}{%
+        {{hash=bdbed435a416a918aa494017fda4c7fb}{%
+           family={{OECD}},
+           familyi={O\bibinitperiod}}}%
+        {{hash=4807e0aebe86c17f559853f35515b533}{%
+           family={{FAO}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {OECD Publishing}%
+      }
+      \strng{namehash}{cb29a44dfba11317a32b5ff77091c345}
+      \strng{fullhash}{cb29a44dfba11317a32b5ff77091c345}
+      \strng{bibnamehash}{cb29a44dfba11317a32b5ff77091c345}
+      \strng{authorbibnamehash}{cb29a44dfba11317a32b5ff77091c345}
+      \strng{authornamehash}{cb29a44dfba11317a32b5ff77091c345}
+      \strng{authorfullhash}{cb29a44dfba11317a32b5ff77091c345}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{OECD--FAO Agricultural Outlook 2023--2032}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.1787/08801ab7-en
+      \endverb
+    \endentry
+    \entry{ProVeg2023EvolvingAppetites}{online}{}
+      \list{organization}{1}{%
+        {ProVeg International}%
+      }
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labeltitlesource}{title}
+      \field{title}{Evolving Appetites: An In-Depth Look at European Attitudes Towards Plant-Based Eating}
+      \field{urlday}{14}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://proveg.org/report/evolving-appetites-an-in-depth-look-at-european-attitudes-towards-plant-based-eating/
+      \endverb
+      \verb{url}
+      \verb https://proveg.org/report/evolving-appetites-an-in-depth-look-at-european-attitudes-towards-plant-based-eating/
+      \endverb
+    \endentry
+    \entry{MarketUS2024PlantProteinSupplements}{online}{}
+      \list{organization}{1}{%
+        {Market.us}%
+      }
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labeltitlesource}{title}
+      \field{title}{Plant-based Protein Supplements Market Size}
+      \field{urlday}{15}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://market.us/report/plant-based-protein-supplements-market/
+      \endverb
+      \verb{url}
+      \verb https://market.us/report/plant-based-protein-supplements-market/
+      \endverb
+    \endentry
+    \entry{PWConsulting2024HighProteinBarsMarket}{online}{}
+      \list{organization}{1}{%
+        {PW Consulting Health Care Research Center}%
+      }
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{day}{9}
+      \field{month}{10}
+      \field{title}{High-Protein Bars Market}
+      \field{urlday}{15}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://pmarketresearch.com/hc/high-protein-bars-market/
+      \endverb
+      \verb{url}
+      \verb https://pmarketresearch.com/hc/high-protein-bars-market/
+      \endverb
+    \endentry
+    \entry{NordicHempSite}{online}{}
+      \list{organization}{1}{%
+        {Nordic Hemp}%
+      }
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{title}{Nordic Hemp (official site)}
+      \field{urlday}{22}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://nordichemp.ee/
+      \endverb
+      \verb{url}
+      \verb https://nordichemp.ee/
+      \endverb
+    \endentry
+    \entry{ImpolanKasvitilaFrontPage}{online}{}
+      \list{organization}{1}{%
+        {Impolan Kasvitila}%
+      }
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{title}{Front page}
+      \field{urlday}{22}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.impolankasvitila.fi/en/front-page
+      \endverb
+      \verb{url}
+      \verb https://www.impolankasvitila.fi/en/front-page
+      \endverb
+    \endentry
+    \entry{SmartOrganicRoobar}{online}{}
+      \list{organization}{1}{%
+        {Smart Organic}%
+      }
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{title}{ROO'bar}
+      \field{urlday}{22}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://smartorganic.com/de/roobar/
+      \endverb
+      \verb{url}
+      \verb https://smartorganic.com/de/roobar/
+      \endverb
+    \endentry
     \entry{art_17}{misc}{}
       \name{author}{1}{}{%
         {{hash=d0baa957acb6522d22e3251a428fe067}{%
@@ -59,8 +374,8 @@
       \strng{authornamehash}{d0baa957acb6522d22e3251a428fe067}
       \strng{authorfullhash}{d0baa957acb6522d22e3251a428fe067}
       \field{extraname}{2}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{Official Journal of the European Union, L 404, pp. 9--25}
@@ -120,8 +435,8 @@
       \strng{authorbibnamehash}{56d5c873a217aa6c1cf56b8f80590734}
       \strng{authornamehash}{56d5c873a217aa6c1cf56b8f80590734}
       \strng{authorfullhash}{cf7cac67aff2fc49d6a63c06f6548fbb}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Amino acids}
@@ -154,8 +469,8 @@
       \strng{authorbibnamehash}{5362b506c3ca0be7a0f7d5f6c6aa4c23}
       \strng{authornamehash}{5362b506c3ca0be7a0f7d5f6c6aa4c23}
       \strng{authorfullhash}{5362b506c3ca0be7a0f7d5f6c6aa4c23}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Industrial Hemp: Food and Nutraceutical Applications}
@@ -173,8 +488,8 @@
       \strng{authorbibnamehash}{50f2c24ecc6ecedf5e6952e79739c05c}
       \strng{authornamehash}{50f2c24ecc6ecedf5e6952e79739c05c}
       \strng{authorfullhash}{50f2c24ecc6ecedf5e6952e79739c05c}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://frida.fooddata.dk/food/59}}
@@ -205,8 +520,8 @@
       \strng{authorbibnamehash}{661b137038ba58ef32ae960707aea5b4}
       \strng{authornamehash}{661b137038ba58ef32ae960707aea5b4}
       \strng{authorfullhash}{661b137038ba58ef32ae960707aea5b4}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Czech Journal of Food Sciences}
@@ -242,8 +557,8 @@
       \strng{authorbibnamehash}{99f93a0a8ad2450d74cc87bfe3545527}
       \strng{authornamehash}{99f93a0a8ad2450d74cc87bfe3545527}
       \strng{authorfullhash}{99f93a0a8ad2450d74cc87bfe3545527}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Food Bioscience}
@@ -282,8 +597,8 @@
       \strng{authorbibnamehash}{54c0157da756984b0620e9c717b66574}
       \strng{authornamehash}{54c0157da756984b0620e9c717b66574}
       \strng{authorfullhash}{6176727b8418a117a5cbe099a5509ad3}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Innovation in Aging}
@@ -308,8 +623,8 @@
       \strng{authorbibnamehash}{a457a121f9d0a41d280acf7f71036a55}
       \strng{authornamehash}{a457a121f9d0a41d280acf7f71036a55}
       \strng{authorfullhash}{a457a121f9d0a41d280acf7f71036a55}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{International Journal of Scientific Research}
@@ -333,8 +648,8 @@
       \strng{authornamehash}{a1b813a6e85874b4c945aec2cdbea74c}
       \strng{authorfullhash}{a1b813a6e85874b4c945aec2cdbea74c}
       \field{extraname}{1}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{Official Journal of the European Union, L 136, pp. 1--40}
@@ -389,8 +704,8 @@
       \strng{authorbibnamehash}{1ac1bd0c0e2029a1f7819cf4bfa8bce0}
       \strng{authornamehash}{1ac1bd0c0e2029a1f7819cf4bfa8bce0}
       \strng{authorfullhash}{fd851584c588960caa86cdb04fcb738a}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Food Chemistry}
@@ -428,8 +743,8 @@
       \strng{authorbibnamehash}{300742eba2153ae13c05978dcd073abe}
       \strng{authornamehash}{300742eba2153ae13c05978dcd073abe}
       \strng{authorfullhash}{300742eba2153ae13c05978dcd073abe}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{British journal of nutrition}
@@ -487,8 +802,8 @@
       \strng{authorbibnamehash}{473355531c8dc0c58654276bb5379031}
       \strng{authornamehash}{473355531c8dc0c58654276bb5379031}
       \strng{authorfullhash}{e1340d75082ce3e8c6d0ce0990f2fe0c}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Foods}
@@ -551,8 +866,8 @@
       \strng{authorbibnamehash}{4a0b657cb10f1cbbd198677cce1d2761}
       \strng{authornamehash}{4a0b657cb10f1cbbd198677cce1d2761}
       \strng{authorfullhash}{38febf2573b2645bf902cd051a5af814}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Foods}
@@ -601,8 +916,8 @@
       \strng{authorbibnamehash}{3bf8c8eb73dcacb096e6672d9a6a3766}
       \strng{authornamehash}{3bf8c8eb73dcacb096e6672d9a6a3766}
       \strng{authorfullhash}{00d344f36ede76dc68d090f6d0933683}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Food Science and Technology Research}
@@ -645,8 +960,8 @@
       \strng{authorbibnamehash}{c7e97928828786e4005f71bdeac2b60e}
       \strng{authornamehash}{c7e97928828786e4005f71bdeac2b60e}
       \strng{authorfullhash}{b771b7366daac3b0b56a6cde2637bf58}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Molecules}
@@ -679,8 +994,8 @@
       \strng{authorbibnamehash}{43546c76c39cbd9b573e3cf5c4e5c29d}
       \strng{authornamehash}{43546c76c39cbd9b573e3cf5c4e5c29d}
       \strng{authorfullhash}{43546c76c39cbd9b573e3cf5c4e5c29d}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Efsa Journal}
@@ -704,8 +1019,8 @@
       \strng{authornamehash}{a1b813a6e85874b4c945aec2cdbea74c}
       \strng{authorfullhash}{a1b813a6e85874b4c945aec2cdbea74c}
       \field{extraname}{2}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{Official Journal of the European Union, L 37, pp. 16--18}
