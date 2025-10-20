@@ -1,9 +1,9 @@
-NFOK24004U - Designing Nutritious Future Dairy Products and Alternatives 
-- Welcome to the NFOK24004U Group Project repository! 
-This repository is created for students enrolled in the NFOK24004U course at the University of Copenhagen, covering the period from August 2025 to September 2025.
+NPLK14014U - Fruit and Berry Crop Physiology and Quality
+- Welcome to the NPLK14014U Group Project repository! 
+This repository is created for students enrolled in the NPLK14014U course at the University of Copenhagen, covering the period from September 2025 to November 2025.
 
 Overview 
-- This repository contains the group project that has been made to finalize the course. It is intended as a resource for students to enhance their learning experience.
+- This repository contains the individual project that has been made to finalize the course. It is intended as a resource for students to enhance their learning experience.
 
 Usage 
 - The content within this repository is free to use for everyone.
