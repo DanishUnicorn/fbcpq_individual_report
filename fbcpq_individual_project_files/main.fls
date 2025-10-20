@@ -1,8 +1,8 @@
-PWD /Users/bruger/Desktop/Folders/KU/Master/year_1/blok_5/dnfpda_project/dnfdpa_group_project_files
+PWD /Users/bruger/Desktop/Folders/KU/Master/year_2/blok_01/FBCPQ/individual_report/fbcpq_report/fbcpq_individual_project_files
 INPUT /usr/local/texlive/2024/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/bruger/Desktop/Folders/KU/Master/year_1/blok_5/dnfpda_project/dnfdpa_group_project_files/main.tex
+INPUT /Users/bruger/Desktop/Folders/KU/Master/year_2/blok_01/FBCPQ/individual_report/fbcpq_report/fbcpq_individual_project_files/main.tex
 OUTPUT main.log
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/report.cls
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/report.cls

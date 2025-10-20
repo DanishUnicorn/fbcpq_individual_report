@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber main"] 1756471107.89172 "main.bcf" "main.bbl" "main" 1756481347.52059 0
-  "main.bcf" 1756481347.10321 114148 1c2b34192d362cb5fadaa0b7a778873b "pdflatex"
+["biber main"] 1756471107.89172 "main.bcf" "main.bbl" "main" 1760947931.76215 0
+  "main.bcf" 1760947931.29462 114148 1c2b34192d362cb5fadaa0b7a778873b "pdflatex"
   "references.bib" 1756471028.17813 24963 30b4bfcef11561b7ab03141aaf2d631d ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1756481340.64092 "/Users/bruger/Desktop/Folders/KU/Master/year_1/blok_5/dnfpda_project/dnfdpa_group_project_files/main.tex" "main.pdf" "main" 1756481347.52128 0
-  "/Users/bruger/Desktop/Folders/KU/Master/year_1/blok_5/dnfpda_project/dnfdpa_group_project_files/main.tex" 1756475824.12245 1483 e2ad19cdb2f5f1efd8874743b247ab24 ""
+["pdflatex"] 1760947924.75398 "/Users/bruger/Desktop/Folders/KU/Master/year_2/blok_01/FBCPQ/individual_report/fbcpq_report/fbcpq_individual_project_files/main.tex" "main.pdf" "main" 1760947931.76271 0
+  "/Users/bruger/Desktop/Folders/KU/Master/year_2/blok_01/FBCPQ/individual_report/fbcpq_report/fbcpq_individual_project_files/main.tex" 1756475824.12245 1483 e2ad19cdb2f5f1efd8874743b247ab24 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -313,7 +313,7 @@
   "Figures/fig_formulation_06.1.png" 1756423590.55642 84238 095c181f762c366d5b7d7169cca586c7 ""
   "Figures/fig_formulation_06.png" 1756423590.56757 386416 e19fa7f6f6d806d9ff5a9d5d68da2c70 ""
   "Figures/fig_process_01.png" 1756423832.56714 65261 24539d82aa7c5962e4d49e605b1e25b9 ""
-  "Figures/fig_prod_concept_01.png" 1756422324.38414 4706379 9f2a656fcf9be37d07e59586dfa38161 ""
+  "Figures/fig_prod_concept_01.png" 1756422324 4706379 9f2a656fcf9be37d07e59586dfa38161 ""
   "Figures/fig_prod_concept_02.png" 1756422661.2998 181104 bf5ae65c821a7870be086f38768a4ea6 ""
   "Figures/tab_amino_acid_01.png" 1756453733.7961 295447 38f0e23896a8ef0d6ab553b0015f080b ""
   "Figures/tab_comp_comparison_01.png" 1756457323.0987 189703 e8511b2fd88b3da282af5100ef3267ec ""
@@ -326,13 +326,13 @@
   "TexFiles/chapter_01.tex" 1756481340.26072 3576 93c811e039fdcfc643b75a055987105f ""
   "TexFiles/chapter_02.tex" 1756480780.7705 62616 47cc3f47e651c2468fb0accdd0d7ed00 ""
   "TexFiles/frontpage.tex" 1756475236.6058 1993 1fd84ab704d801b3ded25f125e055f53 ""
-  "main.aux" 1756481347.0813 25615 e43bd0cbb9da24a7f4b8bb03a7931fcc "pdflatex"
+  "main.aux" 1760947931.2732 25615 e43bd0cbb9da24a7f4b8bb03a7931fcc "pdflatex"
   "main.bbl" 1756471112.58533 81610 764b8aea78df5adb54a0ccf7ed6aa1f2 "biber main"
-  "main.out" 1756481347.09743 5614 4f230ac26f73107cc361d44a6d110910 "pdflatex"
-  "main.run.xml" 1756481347.1053 2305 52095dfad395b381e9a32937e764a41c "pdflatex"
+  "main.out" 1760947931.28916 5614 4f230ac26f73107cc361d44a6d110910 "pdflatex"
+  "main.run.xml" 1760947931.29725 2305 52095dfad395b381e9a32937e764a41c "pdflatex"
   "main.tex" 1756475824.12245 1483 e2ad19cdb2f5f1efd8874743b247ab24 ""
-  "main.toc" 1756481347.10557 2977 49f5d9198540ff70136f543160e99992 "pdflatex"
-  "preamble.tex" 1756451968.476 13955 757a8019001f949af4d0b03f9882ba48 ""
+  "main.toc" 1760947931.2975 2977 49f5d9198540ff70136f543160e99992 "pdflatex"
+  "preamble.tex" 1760947923.94189 13957 70e721e2d0bb3260fc0aef0ce99b02dd ""
   (generated)
   "main.aux"
   "main.bcf"
