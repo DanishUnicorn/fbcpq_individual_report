@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.25)  20 OCT 2025 12:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.25)  20 OCT 2025 12:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1564,9 +1564,20 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has be
                    \relax 
 l.22 \clearpage
                 % ends the page, to ensure page numbering starts on the next... [2] (./TexFiles/chapter_02.tex)
+LaTeX Font Info:    Trying to load font information for T1+cmss on input line 41.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/base/t1cmss.fd
+File: t1cmss.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.42 
+      [1{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
 
-LaTeX Warning: Empty bibliography on input line 41.
+] [2]
+Overfull \vbox (55.76913pt too high) has occurred while \output is active []
 
+ [3]
 
 Package caption Warning: Unused \captionsetup[table] on input line 31.
 See the caption package documentation for explanation.
@@ -1575,20 +1586,9 @@ See the caption package documentation for explanation.
 Package caption Warning: Unused \captionsetup[figure] on input line 32.
 See the caption package documentation for explanation.
 
-LaTeX Font Info:    Trying to load font information for T1+cmss on input line 47.
-(/usr/local/texlive/2024/texmf-dist/tex/latex/base/t1cmss.fd
-File: t1cmss.fd 2023/04/13 v2.5m Standard LaTeX font definitions
-)
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.47 \end{document}
-                    [1{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
+[4
 
-]
-Overfull \vbox (94.11911pt too high) has occurred while \output is active []
-
- [2] (./main.aux)
+] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -1600,18 +1600,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 48817 strings out of 474116
- 1034653 string characters out of 5743682
- 1957635 words of memory out of 5000000
- 70357 multiletter control sequences out of 15000+600000
- 610985 words of font info for 93 fonts, out of 8000000 for 9000
+ 49035 strings out of 474116
+ 1039083 string characters out of 5743682
+ 1957713 words of memory out of 5000000
+ 70569 multiletter control sequences out of 15000+600000
+ 616201 words of font info for 95 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 89i,11n,90p,1380b,852s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 89i,11n,90p,1380b,1295s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfsx1000.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (5 pages, 451094 bytes).
+Output written on main.pdf (7 pages, 460108 bytes).
 PDF statistics:
- 217 PDF objects out of 1000 (max. 8388607)
- 181 compressed objects within 2 object streams
- 27 named destinations out of 1000 (max. 500000)
+ 232 PDF objects out of 1000 (max. 8388607)
+ 194 compressed objects within 2 object streams
+ 31 named destinations out of 1000 (max. 500000)
  235 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -16,5 +16,54 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{A01_Aguirre-Lopez_2023}{article}{}
+      \name{author}{4}{}{%
+        {{hash=ddfa689cd14bdd14a7135a24a0c38342}{%
+           family={Aguirre-López},
+           familyi={A\bibinithyphendelim L\bibinitperiod},
+           given={D.\bibnamedelimi A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=7105012b57085a26cc3984b5928b1d9e}{%
+           family={López-Calvo},
+           familyi={L\bibinithyphendelim C\bibinitperiod},
+           given={A.\bibnamedelimi M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=579c70fc7d15d2cb5f12a84151843db0}{%
+           family={López-Calvo},
+           familyi={L\bibinithyphendelim C\bibinitperiod},
+           given={S.\bibnamedelimi M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=136f00278b7fb51f074e676bdd122593}{%
+           family={Taborda-Ocampo},
+           familyi={T\bibinithyphendelim O\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{a13333fa831782bb79763aa38a4f3b5c}
+      \strng{fullhash}{958d792fe9ab75175372ba869b5bc7c7}
+      \strng{bibnamehash}{a13333fa831782bb79763aa38a4f3b5c}
+      \strng{authorbibnamehash}{a13333fa831782bb79763aa38a4f3b5c}
+      \strng{authornamehash}{a13333fa831782bb79763aa38a4f3b5c}
+      \strng{authorfullhash}{958d792fe9ab75175372ba869b5bc7c7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista Colombiana de Investigaciones Agroindustriales}
+      \field{number}{2}
+      \field{title}{Compuestos orgánicos volátiles presentes en el aroma de 17 frutas exóticas en Colombia: revisión}
+      \field{volume}{10}
+      \field{year}{2023}
+      \field{pages}{117\bibrangedash 142}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.23850/24220582.5208
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 
