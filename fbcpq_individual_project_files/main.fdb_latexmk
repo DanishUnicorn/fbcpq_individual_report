@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 1756471107.89172 "main.bcf" "main.bbl" "main" 1760948199.17932 0
-  "main.bcf" 1760948198.78774 114148 1c2b34192d362cb5fadaa0b7a778873b "pdflatex"
+["biber main"] 1756471107.89172 "main.bcf" "main.bbl" "main" 1760950608.11546 0
+  "main.bcf" 1760950607.74325 114148 1c2b34192d362cb5fadaa0b7a778873b "pdflatex"
   "references.bib" 1756471028.17813 24963 30b4bfcef11561b7ab03141aaf2d631d ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1760948192.59695 "/Users/bruger/Desktop/Folders/KU/Master/year_2/blok_01/FBCPQ/individual_report/fbcpq_report/fbcpq_individual_project_files/main.tex" "main.pdf" "main" 1760948199.17993 0
+["pdflatex"] 1760950601.59991 "/Users/bruger/Desktop/Folders/KU/Master/year_2/blok_01/FBCPQ/individual_report/fbcpq_report/fbcpq_individual_project_files/main.tex" "main.pdf" "main" 1760950608.11599 0
   "/Users/bruger/Desktop/Folders/KU/Master/year_2/blok_01/FBCPQ/individual_report/fbcpq_report/fbcpq_individual_project_files/main.tex" 1756475824.12245 1483 e2ad19cdb2f5f1efd8874743b247ab24 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
@@ -70,6 +70,8 @@
   "/usr/local/texlive/2024/texmf-dist/tex/generic/infwarerr/infwarerr.sty" 1575499628 8356 7bbb2c2373aa810be568c29e333da8ed ""
   "/usr/local/texlive/2024/texmf-dist/tex/generic/intcalc/intcalc.sty" 1576625065 31769 002a487f55041f8e805cfbf6385ffd97 ""
   "/usr/local/texlive/2024/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty" 1576878844 5412 d5a2436094cd7be85769db90f29250a6 ""
+  "/usr/local/texlive/2024/texmf-dist/tex/generic/listofitems/listofitems.sty" 1558214112 195 27b9da3d207196766c9f281d0590e267 ""
+  "/usr/local/texlive/2024/texmf-dist/tex/generic/listofitems/listofitems.tex" 1710101179 29855 3e40d14a2867566d507a0462c489fed5 ""
   "/usr/local/texlive/2024/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty" 1701727651 17865 1a9bd36b4f98178fa551aca822290953 ""
   "/usr/local/texlive/2024/texmf-dist/tex/generic/pdfescape/pdfescape.sty" 1576015897 19007 15924f7228aca6c6d184b115f4baa231 ""
   "/usr/local/texlive/2024/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty" 1593379760 20089 80423eac55aa175305d35b49e04fe23b ""
@@ -274,6 +276,7 @@
   "/usr/local/texlive/2024/texmf-dist/tex/latex/sauerj/processkv.sty" 1137110753 762 66c1235baade66e3803c7921bc8096cb ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/seqsplit/seqsplit.sty" 1155399262 1346 2729ac6e87ab535b7428c6807dace823 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/setspace/setspace.sty" 1670275497 22490 8cac309b79a4c53a4ffce4b1b07aead0 ""
+  "/usr/local/texlive/2024/texmf-dist/tex/latex/stackengine/stackengine.sty" 1626986448 16455 7159cc65692c01a770db5ae586ea9570 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbbreakable.code.tex" 1704919444 34667 aedede1f84e908a7a38dccbeea73e77f ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbfitting.code.tex" 1704919444 17164 845c778959cb29827bcbee2c259881df ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbhooks.code.tex" 1704919444 10373 37b37e119c471479296ef09959a9ec73 ""
@@ -323,16 +326,17 @@
   "KU_titelpage/logos/dk_uni.pdf" 1742841047 127045 8150c475771a523224b68b93883ec9fb ""
   "KU_titelpage/logos/ku-logo.pdf" 1742841047 48708 4aedfa43de4813eae411d2450b66ff1c ""
   "KU_titelpage/logos/science-english.pdf" 1742841047 71141 827ec2c5d6f797163b848e34358df682 ""
-  "TexFiles/chapter_01.tex" 1760948192.23506 3599 9e597eebf7add487cd20b8fc26d768ef ""
+  "KU_titelpage/signatures/lucas_daniel_paz_zuleta.png" 1760950064.87694 199018 4dec98585e7f5424e5534f8e7383c3bf ""
+  "TexFiles/chapter_01.tex" 1760950601.27723 3447 cf4a23247c66c9ce814399bfd23fc32e ""
   "TexFiles/chapter_02.tex" 1756480780.7705 62616 47cc3f47e651c2468fb0accdd0d7ed00 ""
   "TexFiles/frontpage.tex" 1756475236.6058 1993 1fd84ab704d801b3ded25f125e055f53 ""
-  "main.aux" 1760948198.76639 25615 e43bd0cbb9da24a7f4b8bb03a7931fcc "pdflatex"
+  "main.aux" 1760950607.72163 25615 e43bd0cbb9da24a7f4b8bb03a7931fcc "pdflatex"
   "main.bbl" 1756471112.58533 81610 764b8aea78df5adb54a0ccf7ed6aa1f2 "biber main"
-  "main.out" 1760948198.78222 5614 4f230ac26f73107cc361d44a6d110910 "pdflatex"
-  "main.run.xml" 1760948198.78932 2305 52095dfad395b381e9a32937e764a41c "pdflatex"
+  "main.out" 1760950607.73758 5614 4f230ac26f73107cc361d44a6d110910 "pdflatex"
+  "main.run.xml" 1760950607.74462 2305 52095dfad395b381e9a32937e764a41c "pdflatex"
   "main.tex" 1756475824.12245 1483 e2ad19cdb2f5f1efd8874743b247ab24 ""
-  "main.toc" 1760948198.7895 2977 49f5d9198540ff70136f543160e99992 "pdflatex"
-  "preamble.tex" 1760947923.94189 13957 70e721e2d0bb3260fc0aef0ce99b02dd ""
+  "main.toc" 1760950607.7448 2977 49f5d9198540ff70136f543160e99992 "pdflatex"
+  "preamble.tex" 1760950386.33329 14005 7c28be8c8d62f3b24b462ba63d20ba8b ""
   (generated)
   "main.aux"
   "main.bcf"
