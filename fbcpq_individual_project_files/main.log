@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.25)  20 OCT 2025 10:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.25)  20 OCT 2025 11:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1504,67 +1504,64 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 \c@lstlisting=\count567
  (./TexFiles/frontpage.tex
 Grid set 12 x 24 = 49.79231pt x 35.21028pt
-LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 13.
-(/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
-File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
-)
-LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 13.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/omlztmcm.fd
-File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
-)
-LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 13.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/omsztmcm.fd
-File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
-)
-LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 13.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/omxztmcm.fd
-File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
-)
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 13.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ot1ptm.fd
-File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
-)
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 13.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 13.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 13.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 42.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 42.
+
+Overfull \hbox (13.19579pt too wide) in paragraph at lines 16--17
+[]\T1/ptm/b/n/17.28 A the-o-ret-i-cal re-port on the de-vel-op-ment and com-po-si-tion of aroma
+ []
+
 <KU_titelpage/logos/science-english.pdf, id=120, 597.23125pt x 845.1575pt>
 File: KU_titelpage/logos/science-english.pdf Graphic file (type pdf)
 <use KU_titelpage/logos/science-english.pdf>
-Package pdftex.def Info: KU_titelpage/logos/science-english.pdf  used on input line 51.
+Package pdftex.def Info: KU_titelpage/logos/science-english.pdf  used on input line 43.
 (pdftex.def)             Requested size: 569.05511pt x 805.33243pt.
 <KU_titelpage/logos/ku-logo.pdf, id=122, 597.50829pt x 845.0471pt>
 File: KU_titelpage/logos/ku-logo.pdf Graphic file (type pdf)
 <use KU_titelpage/logos/ku-logo.pdf>
-Package pdftex.def Info: KU_titelpage/logos/ku-logo.pdf  used on input line 51.
+Package pdftex.def Info: KU_titelpage/logos/ku-logo.pdf  used on input line 43.
 (pdftex.def)             Requested size: 597.50787pt x 845.04504pt.
 <KU_titelpage/logos/dk_uni.pdf, id=124, 597.23125pt x 845.1575pt>
 File: KU_titelpage/logos/dk_uni.pdf Graphic file (type pdf)
 <use KU_titelpage/logos/dk_uni.pdf>
-Package pdftex.def Info: KU_titelpage/logos/dk_uni.pdf  used on input line 51.
+Package pdftex.def Info: KU_titelpage/logos/dk_uni.pdf  used on input line 43.
 (pdftex.def)             Requested size: 113.81102pt x 161.04585pt.
- [1
+[1
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc} <./KU_titelpage/logos/science-english.pdf> <./KU_titelpage/logos/ku-logo.pdf> <./KU_titelpage/logos/dk_uni.pdf>]) (./TexFiles/chapter_01.tex
 LaTeX Font Info:    Calculating math sizes for size <18> on input line 15.
+LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 15.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 15.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/omlztmcm.fd
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 15.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/omsztmcm.fd
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 15.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/omxztmcm.fd
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 15.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <18> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 15.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <13.3201> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 15.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.80011> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 15.
-<KU_titelpage/signatures/lucas_daniel_paz_zuleta.png, id=157, 1018.80624pt x 318.18875pt>
+<KU_titelpage/signatures/lucas_daniel_paz_zuleta.png, id=156, 1018.80624pt x 318.18875pt>
 File: KU_titelpage/signatures/lucas_daniel_paz_zuleta.png Graphic file (type png)
 <use KU_titelpage/signatures/lucas_daniel_paz_zuleta.png>
 Package pdftex.def Info: KU_titelpage/signatures/lucas_daniel_paz_zuleta.png  used on input line 29.
 (pdftex.def)             Requested size: 152.19519pt x 47.53204pt.
 ) (./main.toc
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
@@ -1591,7 +1588,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `superscript' on input line 7.
 
-<Figures/fig_01.png, id=200, 291.051pt x 274.9545pt>
+<Figures/fig_01.png, id=199, 291.051pt x 274.9545pt>
 File: Figures/fig_01.png Graphic file (type png)
 <use Figures/fig_01.png>
 Package pdftex.def Info: Figures/fig_01.png  used on input line 15.
@@ -1686,6 +1683,12 @@ File: Figures/fig_prod_concept_02.png Graphic file (type png)
 <use Figures/fig_prod_concept_02.png>
 Package pdftex.def Info: Figures/fig_prod_concept_02.png  used on input line 122.
 (pdftex.def)             Requested size: 330.66464pt x 210.03566pt.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 127.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 127.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 127.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\mathsurround' on input line 127.
@@ -1880,15 +1883,15 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 49579 strings out of 474116
- 1055581 string characters out of 5743682
- 1970977 words of memory out of 5000000
- 71001 multiletter control sequences out of 15000+600000
- 665425 words of font info for 198 fonts, out of 8000000 for 9000
+ 49565 strings out of 474116
+ 1055394 string characters out of 5743682
+ 1971977 words of memory out of 5000000
+ 70992 multiletter control sequences out of 15000+600000
+ 659813 words of font info for 185 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  89i,16n,90p,2249b,1630s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfsx1000.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (28 pages, 7274641 bytes).
+Output written on main.pdf (28 pages, 7273901 bytes).
 PDF statistics:
  611 PDF objects out of 1000 (max. 8388607)
  516 compressed objects within 6 object streams

@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 1756471107.89172 "main.bcf" "main.bbl" "main" 1760950608.11546 0
-  "main.bcf" 1760950607.74325 114148 1c2b34192d362cb5fadaa0b7a778873b "pdflatex"
+["biber main"] 1756471107.89172 "main.bcf" "main.bbl" "main" 1760951460.64427 0
+  "main.bcf" 1760951460.24268 114148 1c2b34192d362cb5fadaa0b7a778873b "pdflatex"
   "references.bib" 1756471028.17813 24963 30b4bfcef11561b7ab03141aaf2d631d ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1760950601.59991 "/Users/bruger/Desktop/Folders/KU/Master/year_2/blok_01/FBCPQ/individual_report/fbcpq_report/fbcpq_individual_project_files/main.tex" "main.pdf" "main" 1760950608.11599 0
+["pdflatex"] 1760951453.80837 "/Users/bruger/Desktop/Folders/KU/Master/year_2/blok_01/FBCPQ/individual_report/fbcpq_report/fbcpq_individual_project_files/main.tex" "main.pdf" "main" 1760951460.64509 0
   "/Users/bruger/Desktop/Folders/KU/Master/year_2/blok_01/FBCPQ/individual_report/fbcpq_report/fbcpq_individual_project_files/main.tex" 1756475824.12245 1483 e2ad19cdb2f5f1efd8874743b247ab24 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
@@ -34,7 +34,6 @@
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1246382020 916 f87d7c45f9c908e672703b83b72241a3 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm" 1246382020 908 2921f8a10601f252058503cc6570e581 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmex10.tfm" 1136768653 992 662f679a0b3d2d53c1b94050fdaa3f50 ""
-  "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1136768653 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/latex-fonts/lasy6.tfm" 1136768653 520 4889cce2180234b97cad636b6039c722 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/rsfs/rsfs10.tfm" 1229303445 688 37338d6ab346c2f1466b29e195316aa4 ""
@@ -329,13 +328,13 @@
   "KU_titelpage/signatures/lucas_daniel_paz_zuleta.png" 1760950064.87694 199018 4dec98585e7f5424e5534f8e7383c3bf ""
   "TexFiles/chapter_01.tex" 1760950601.27723 3447 cf4a23247c66c9ce814399bfd23fc32e ""
   "TexFiles/chapter_02.tex" 1756480780.7705 62616 47cc3f47e651c2468fb0accdd0d7ed00 ""
-  "TexFiles/frontpage.tex" 1756475236.6058 1993 1fd84ab704d801b3ded25f125e055f53 ""
-  "main.aux" 1760950607.72163 25615 e43bd0cbb9da24a7f4b8bb03a7931fcc "pdflatex"
+  "TexFiles/frontpage.tex" 1760951453.48716 1661 18aae71e185439f056411d990728d2e2 ""
+  "main.aux" 1760951460.21846 25615 e43bd0cbb9da24a7f4b8bb03a7931fcc "pdflatex"
   "main.bbl" 1756471112.58533 81610 764b8aea78df5adb54a0ccf7ed6aa1f2 "biber main"
-  "main.out" 1760950607.73758 5614 4f230ac26f73107cc361d44a6d110910 "pdflatex"
-  "main.run.xml" 1760950607.74462 2305 52095dfad395b381e9a32937e764a41c "pdflatex"
+  "main.out" 1760951460.23464 5614 4f230ac26f73107cc361d44a6d110910 "pdflatex"
+  "main.run.xml" 1760951460.24495 2305 52095dfad395b381e9a32937e764a41c "pdflatex"
   "main.tex" 1756475824.12245 1483 e2ad19cdb2f5f1efd8874743b247ab24 ""
-  "main.toc" 1760950607.7448 2977 49f5d9198540ff70136f543160e99992 "pdflatex"
+  "main.toc" 1760951460.24531 2977 49f5d9198540ff70136f543160e99992 "pdflatex"
   "preamble.tex" 1760950386.33329 14005 7c28be8c8d62f3b24b462ba63d20ba8b ""
   (generated)
   "main.aux"
