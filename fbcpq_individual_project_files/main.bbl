@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.2 $
+% $ biblatex bbl format version 3.3 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -18,49 +18,186 @@
 
 
 \refsection{0}
-  \datalist[entry]{none/global//global/global}
-    \entry{A01_Aguirre-Lopez_2023}{article}{}
-      \name{author}{4}{}{%
-        {{hash=ddfa689cd14bdd14a7135a24a0c38342}{%
-           family={Aguirre-López},
-           familyi={A\bibinithyphendelim L\bibinitperiod},
-           given={D.\bibnamedelimi A.},
-           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=7105012b57085a26cc3984b5928b1d9e}{%
-           family={López-Calvo},
-           familyi={L\bibinithyphendelim C\bibinitperiod},
-           given={A.\bibnamedelimi M.},
-           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=579c70fc7d15d2cb5f12a84151843db0}{%
-           family={López-Calvo},
-           familyi={L\bibinithyphendelim C\bibinitperiod},
-           given={S.\bibnamedelimi M.},
-           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=136f00278b7fb51f074e676bdd122593}{%
-           family={Taborda-Ocampo},
-           familyi={T\bibinithyphendelim O\bibinitperiod},
-           given={G.},
-           giveni={G\bibinitperiod}}}%
+  \datalist[entry]{none/global//global/global/global}
+    \entry{A03_PanoFarias2017}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=333216dcb9d27ed6abf577a2a381415a}{%
+           family={Pano-Farías},
+           familyi={P\bibinithyphendelim F\bibinitperiod},
+           given={Norma\bibnamedelima S.},
+           giveni={N\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=7b07f979f00acbe5f9e81d05986862b6}{%
+           family={Ceballos-Magaña},
+           familyi={C\bibinithyphendelim M\bibinitperiod},
+           given={Silvia\bibnamedelima G.},
+           giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=c52a92d79f30de8f53df18d231a149af}{%
+           family={Muñiz-Valencia},
+           familyi={M\bibinithyphendelim V\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod}}}%
+        {{hash=39907fdea983b0295699982b1c38d205}{%
+           family={Jurado},
+           familyi={J\bibinitperiod},
+           given={Jose\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=54196a04564009f03df2a35e894516f6}{%
+           family={Alcázar},
+           familyi={A\bibinitperiod},
+           given={Ángela},
+           giveni={Á\bibinitperiod}}}%
+        {{hash=0e7c09b0755285f913f711a65c88e8a7}{%
+           family={Aguayo-Villarreal},
+           familyi={A\bibinithyphendelim V\bibinitperiod},
+           given={Ismael\bibnamedelima A.},
+           giveni={I\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
       }
-      \strng{namehash}{a13333fa831782bb79763aa38a4f3b5c}
-      \strng{fullhash}{958d792fe9ab75175372ba869b5bc7c7}
-      \strng{bibnamehash}{a13333fa831782bb79763aa38a4f3b5c}
-      \strng{authorbibnamehash}{a13333fa831782bb79763aa38a4f3b5c}
-      \strng{authornamehash}{a13333fa831782bb79763aa38a4f3b5c}
-      \strng{authorfullhash}{958d792fe9ab75175372ba869b5bc7c7}
+      \list{publisher}{1}{%
+        {Elsevier Ltd.}%
+      }
+      \strng{namehash}{33edf77133ed88267a419a07f953460a}
+      \strng{fullhash}{7977ad25fef4e03ba32bdcd2af5db9fd}
+      \strng{fullhashraw}{7977ad25fef4e03ba32bdcd2af5db9fd}
+      \strng{bibnamehash}{33edf77133ed88267a419a07f953460a}
+      \strng{authorbibnamehash}{33edf77133ed88267a419a07f953460a}
+      \strng{authornamehash}{33edf77133ed88267a419a07f953460a}
+      \strng{authorfullhash}{7977ad25fef4e03ba32bdcd2af5db9fd}
+      \strng{authorfullhashraw}{7977ad25fef4e03ba32bdcd2af5db9fd}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Revista Colombiana de Investigaciones Agroindustriales}
-      \field{number}{2}
-      \field{title}{Compuestos orgánicos volátiles presentes en el aroma de 17 frutas exóticas en Colombia: revisión}
-      \field{volume}{10}
-      \field{year}{2023}
-      \field{pages}{117\bibrangedash 142}
-      \range{pages}{26}
+      \field{issn}{0308-8146}
+      \field{journaltitle}{Food Chemistry}
+      \field{title}{Direct immersion single drop micro-extraction method for multi-class pesticides analysis in mango using GC--MS}
+      \field{volume}{237}
+      \field{year}{2017}
+      \field{pages}{30\bibrangedash 38}
+      \range{pages}{9}
       \verb{doi}
-      \verb 10.23850/24220582.5208
+      \verb 10.1016/j.foodchem.2017.05.030
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1016/j.foodchem.2017.05.030
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1016/j.foodchem.2017.05.030
+      \endverb
+      \keyw{Single drop micro-extraction,SDME,GC-MS,Pesticides,Mango,Fruits}
+    \endentry
+    \entry{A04_GUO2023112779}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=c549ea21f69fa4dd3c5b34fd62ba0e86}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Ming},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f622127f33d4eb10fb854c0fd4fa68db}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Yanan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=f5acec98b29ee91fa6b08b85a6a0adad}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Ying},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=bd24b95a1cf3d1848bf38ddb820ec02e}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Shengnan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=7a3d27ac052638e0cdea6311a9ed464c}{%
+           family={Jia},
+           familyi={J\bibinitperiod},
+           given={Yankun},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=2a0e74fb34d7acb253fd595ae52fd33e}{%
+           family={Luo},
+           familyi={L\bibinitperiod},
+           given={Xiping},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{8de180b75fd688a39e4880034733bb26}
+      \strng{fullhash}{4052036daf97bcf91383e3f91a470709}
+      \strng{fullhashraw}{4052036daf97bcf91383e3f91a470709}
+      \strng{bibnamehash}{8de180b75fd688a39e4880034733bb26}
+      \strng{authorbibnamehash}{8de180b75fd688a39e4880034733bb26}
+      \strng{authornamehash}{8de180b75fd688a39e4880034733bb26}
+      \strng{authorfullhash}{4052036daf97bcf91383e3f91a470709}
+      \strng{authorfullhashraw}{4052036daf97bcf91383e3f91a470709}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0963-9969}
+      \field{journaltitle}{Food Research International}
+      \field{title}{Nutritive value of active volatile components of Anacardiaceae mango and their effects on carrier proteins function}
+      \field{volume}{168}
+      \field{year}{2023}
+      \field{pages}{112779}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.foodres.2023.112779
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0963996923003241
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0963996923003241
+      \endverb
+      \keyw{HS-SPME/GC–MS,Fluorescence spectrometry,Transport protein,Molecular docking,Dynamic simulation}
+    \endentry
+    \entry{A05_Chin2019}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{hash=6f9c4dcbed8df2ab3c8acd3f903f37a0}{%
+           family={Chin},
+           familyi={C\bibinitperiod},
+           given={C.\bibnamedelimi F.},
+           giveni={C\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=e0427918830592cdf26e964edfdb425a}{%
+           family={Teoh},
+           familyi={T\bibinitperiod},
+           given={E.\bibnamedelimi Y.},
+           giveni={E\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=6c79749280ce99ed649bf5f3f1e737f9}{%
+           family={Chee},
+           familyi={C\bibinitperiod},
+           given={M.\bibnamedelimi J.\bibnamedelimi Y.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{c919a239810375b608694ee93ce20624}
+      \strng{fullhash}{c919a239810375b608694ee93ce20624}
+      \strng{fullhashraw}{c919a239810375b608694ee93ce20624}
+      \strng{bibnamehash}{c919a239810375b608694ee93ce20624}
+      \strng{authorbibnamehash}{c919a239810375b608694ee93ce20624}
+      \strng{authornamehash}{c919a239810375b608694ee93ce20624}
+      \strng{authorfullhash}{c919a239810375b608694ee93ce20624}
+      \strng{authorfullhashraw}{c919a239810375b608694ee93ce20624}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1573-4943}
+      \field{journaltitle}{Protein Journal}
+      \field{title}{Comparative Proteomic Analysis on Fruit Ripening Processes in Two Varieties of Tropical Mango (Mangifera indica)}
+      \field{volume}{38}
+      \field{year}{2019}
+      \field{pages}{704\bibrangedash 715}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1007/s10930-019-09868-x
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s10930-019-09868-x
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s10930-019-09868-x
       \endverb
     \endentry
   \enddatalist
