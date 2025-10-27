@@ -1,23 +1,24 @@
 # Fdb version 4
-["biber main"] 1761600297.99752 "main.bcf" "main.bbl" "main" 1761600312.37431 0
-  "main.bcf" 1761600311 108199 92ee53d762d03701ea94ec3075e8f4c5 "pdflatex"
-  "references.bib" 1761599655 3061 85142a920f979cc1d773864a176cdb5d ""
+["biber main"] 1761606506.58442 "main.bcf" "main.bbl" "main" 1761606512.97909 0
+  "main.bcf" 1761606512 108405 fbfd7ffe6a7251435819249a2d61e569 "pdflatex"
+  "references.bib" 1761602285 3348 9ce8de36a1661eefd62fdfaf9d2e622a ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1761600308.34858 "c:/Users/lucas/iCloudDrive/Desktop/Folders/KU/Master/year_2/blok_01/FBCPQ/individual_report/fbcpq_report/fbcpq_individual_project_files/main.tex" "main.pdf" "main" 1761600312.37547 0
+["pdflatex"] 1761606509.20675 "c:/Users/lucas/iCloudDrive/Desktop/Folders/KU/Master/year_2/blok_01/FBCPQ/individual_report/fbcpq_report/fbcpq_individual_project_files/main.tex" "main.pdf" "main" 1761606512.98099 0
   "KU_titelpage/logos/dk_uni.pdf" 1742841047 127045 8150c475771a523224b68b93883ec9fb ""
   "KU_titelpage/logos/ku-logo.pdf" 1742841047 48708 4aedfa43de4813eae411d2450b66ff1c ""
   "KU_titelpage/logos/science-english.pdf" 1742841047 71141 827ec2c5d6f797163b848e34358df682 ""
   "KU_titelpage/signatures/lucas_daniel_paz_zuleta.png" 1760950064 199018 e8402c0272f73fda79e029779c8f24a5 ""
   "TexFiles/chapter_01.tex" 1760953589 3705 3e4f8b12e49fa38e4305ed81d7e7863b ""
-  "TexFiles/chapter_02.tex" 1761600293 2146 75104f3cfd51635d0859daae89b47279 ""
+  "TexFiles/chapter_02.tex" 1761606501 3396 91f63a9cfe0cf84c17d75b76e3f564be ""
   "TexFiles/frontpage.tex" 1761596697 1440 24b93734f39f4074bcab2d29a6d0e7e2 ""
   "c:/Users/lucas/iCloudDrive/Desktop/Folders/KU/Master/year_2/blok_01/FBCPQ/individual_report/fbcpq_report/fbcpq_individual_project_files/main.tex" 1756475824 1483 e2ad19cdb2f5f1efd8874743b247ab24 ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc" 1725481757 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1725481196 2971 def0b6c1f0b107b3b936def894055589 ""
   "c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1725482201 3524 cb3e574dea2d1052e39280babc910dc8 ""
+  "c:/texlive/2024/texmf-dist/fonts/tfm/adobe/times/psyro.tfm" 1725485508 1544 23a042a74981a3e4b6ce2e350e390409 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1725485508 2172 fd0c924230362ff848a33632ed45dc23 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm" 1725485508 4524 6bce29db5bc272ba5f332261583fee9c ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmb8t.tfm" 1725485508 6880 f19b8995b61c334d78fc734065f6b4d4 ""
@@ -39,6 +40,7 @@
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/latex-fonts/lasy6.tfm" 1725483035 520 4889cce2180234b97cad636b6039c722 ""
   "c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb" 1725481196 94269 b8638f5578a6059af3119476061f491e ""
   "c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfsx1000.pfb" 1725481196 149078 529fb70b4eae6159fa47b6d68887e5ed ""
+  "c:/texlive/2024/texmf-dist/fonts/type1/urw/symbol/usyr.pfb" 1725485172 33709 b09d2e140b7e807d3a97058263ab6693 ""
   "c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb" 1725485508 44729 fea0975e20ec51c992338362f05f1146 ""
   "c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb" 1725485508 46026 687528a208fbfc1f00832bb96cccebbb ""
   "c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmri8a.pfb" 1725485508 45458 504e2b06fa82109d168c7a0afb09e145 ""
@@ -46,6 +48,7 @@
   "c:/texlive/2024/texmf-dist/fonts/vf/adobe/times/ptmr8t.vf" 1725485508 2348 91706c542228501c410c266421fbe30c ""
   "c:/texlive/2024/texmf-dist/fonts/vf/adobe/times/ptmrc8t.vf" 1725485508 3608 eb048a634708cbf5eda8def0ce93c7bb ""
   "c:/texlive/2024/texmf-dist/fonts/vf/adobe/times/ptmri8t.vf" 1725485508 2328 6cd7df782b09b29cfc4d93e55b6b9a59 ""
+  "c:/texlive/2024/texmf-dist/fonts/vf/adobe/times/zptmcm7m.vf" 1725485508 1132 27520247d3fe18d4266a226b461885c2 ""
   "c:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1725483724 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "c:/texlive/2024/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1725480488 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "c:/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty" 1725480848 40635 c40361e206be584d448876bba8a64a3b ""
@@ -299,12 +302,12 @@
   "c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1725486235 5543950 2aa73a438b7054b2327b796fbe5f4275 ""
   "c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1725486511 8239381 ef9a94c925cc98b25efb040a05990681 ""
   "c:/texlive/2024/texmf.cnf" 1725486208 713 614551405fc44b98efbf516466e3c909 ""
-  "main.aux" 1761600311 4299 a5b91dc5e8284dbcccef2924ea7d33bc "pdflatex"
-  "main.bbl" 1761600300 8353 32c60c42c71604529210276b1f0b71f7 "biber main"
-  "main.out" 1761600311 5063 75502700553de34914242f075f1cccae "pdflatex"
-  "main.run.xml" 1761600311 2305 52095dfad395b381e9a32937e764a41c "pdflatex"
+  "main.aux" 1761606512 4665 3aebd5949cdc3a07b534460f2f7bfb1d "pdflatex"
+  "main.bbl" 1761606509 12333 aaf754c56af47cac64f3edfabc103577 "biber main"
+  "main.out" 1761606512 5063 75502700553de34914242f075f1cccae "pdflatex"
+  "main.run.xml" 1761606512 2305 52095dfad395b381e9a32937e764a41c "pdflatex"
   "main.tex" 1756475824 1483 e2ad19cdb2f5f1efd8874743b247ab24 ""
-  "main.toc" 1761600311 2256 bbacee889be28050870648550e7c2ba4 "pdflatex"
+  "main.toc" 1761606512 2256 e331725ed8d92b6f8d298464bb116a26 "pdflatex"
   "preamble.tex" 1761598659 14050 3ddafa0c6f246b6cf4fdc9226ce1a1e3 ""
   (generated)
   "main.aux"

@@ -200,6 +200,102 @@
       \verb https://doi.org/10.1007/s10930-019-09868-x
       \endverb
     \endentry
+    \entry{A06_Badar2016}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=5f4416ffc3fd66b86f1301fc7df779ef}{%
+           family={Badar},
+           familyi={B\bibinitperiod},
+           given={Hammad},
+           giveni={H\bibinitperiod}}}%
+        {{hash=6a9e81e2d9df6f59a7cc4b9ae014f21f}{%
+           family={Ariyawardana},
+           familyi={A\bibinitperiod},
+           given={Anoma},
+           giveni={A\bibinitperiod}}}%
+        {{hash=69a0b4c8ac0db6cc9ca04b741a95f2e2}{%
+           family={Collins},
+           familyi={C\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{5af1789701d8fecb6ff46bf71152c836}
+      \strng{fullhash}{5af1789701d8fecb6ff46bf71152c836}
+      \strng{fullhashraw}{5af1789701d8fecb6ff46bf71152c836}
+      \strng{bibnamehash}{5af1789701d8fecb6ff46bf71152c836}
+      \strng{authorbibnamehash}{5af1789701d8fecb6ff46bf71152c836}
+      \strng{authornamehash}{5af1789701d8fecb6ff46bf71152c836}
+      \strng{authorfullhash}{5af1789701d8fecb6ff46bf71152c836}
+      \strng{authorfullhashraw}{5af1789701d8fecb6ff46bf71152c836}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Acta Horticulturae}
+      \field{month}{07}
+      \field{title}{Mango value preferences of consumers in Pakistan}
+      \field{year}{2016}
+      \field{pages}{439\bibrangedash 446}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.17660/ActaHortic.2016.1120.68
+      \endverb
+    \endentry
+    \entry{A02_Moreno2010}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=45b916b0e7b94ff92d0d3783f67079d1}{%
+           family={Moreno},
+           familyi={M\bibinitperiod},
+           given={Angélica},
+           giveni={A\bibinitperiod}}}%
+        {{hash=06659207d2d5cd48669fc85191bf0917}{%
+           family={León},
+           familyi={L\bibinitperiod},
+           given={David\bibnamedelima F.},
+           giveni={D\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=050e0fc8b4b5db37179c117c0f51750a}{%
+           family={Giraldo},
+           familyi={G\bibinitperiod},
+           given={Germán\bibnamedelima A.},
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=a8987b39504ad411d9b25c1c67f09c75}{%
+           family={Ríos},
+           familyi={R\bibinitperiod},
+           given={Eunice},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Bogotá, Colombia}%
+      }
+      \list{publisher}{1}{%
+        {Universidad Nacional de Colombia}%
+      }
+      \strng{namehash}{2f1fee82dbcdde334b89116cef607196}
+      \strng{fullhash}{03f1d40a83942c16e0dfbbedecbf1ae8}
+      \strng{fullhashraw}{03f1d40a83942c16e0dfbbedecbf1ae8}
+      \strng{bibnamehash}{2f1fee82dbcdde334b89116cef607196}
+      \strng{authorbibnamehash}{2f1fee82dbcdde334b89116cef607196}
+      \strng{authornamehash}{2f1fee82dbcdde334b89116cef607196}
+      \strng{authorfullhash}{03f1d40a83942c16e0dfbbedecbf1ae8}
+      \strng{authorfullhashraw}{03f1d40a83942c16e0dfbbedecbf1ae8}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0120-2804}
+      \field{journaltitle}{Revista Colombiana de Química}
+      \field{number}{1}
+      \field{title}{Análisis del perfil de compuestos volátiles del mango (Mangifera indica L. var. Tommy Atkins) tratado por métodos combinados}
+      \field{volume}{39}
+      \field{year}{2010}
+      \field{pages}{61\bibrangedash 72}
+      \range{pages}{12}
+      \verb{urlraw}
+      \verb http://www.redalyc.org/articulo.oa?id=309026683005
+      \endverb
+      \verb{url}
+      \verb http://www.redalyc.org/articulo.oa?id=309026683005
+      \endverb
+    \endentry
   \enddatalist
 \endrefsection
 \endinput
