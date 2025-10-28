@@ -200,6 +200,68 @@
       \verb https://doi.org/10.1007/s10930-019-09868-x
       \endverb
     \endentry
+    \entry{A07_Bonneau2016}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=0ae885d7922c060a6aae6af9cb528a71}{%
+           family={Bonneau},
+           familyi={B\bibinitperiod},
+           given={Adeline},
+           giveni={A\bibinitperiod}}}%
+        {{hash=dfb5c07af268c6a624ea948484933211}{%
+           family={Boulanger},
+           familyi={B\bibinitperiod},
+           given={Renaud},
+           giveni={R\bibinitperiod}}}%
+        {{hash=9786676f5984ed3810db50d56ab42498}{%
+           family={Lebrun},
+           familyi={L\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod}}}%
+        {{hash=95cbb989de4437de894579f09c67205f}{%
+           family={Maraval},
+           familyi={M\bibinitperiod},
+           given={Isabelle},
+           giveni={I\bibinitperiod}}}%
+        {{hash=f5e6209fea918ad738613faed14accc1}{%
+           family={Gunata},
+           familyi={G\bibinitperiod},
+           given={Ziya},
+           giveni={Z\bibinitperiod}}}%
+      }
+      \strng{namehash}{f5ddd344512f302e93ecee3d388a499c}
+      \strng{fullhash}{d48dd23f3908eeb46ea4e0e0af8a970d}
+      \strng{fullhashraw}{d48dd23f3908eeb46ea4e0e0af8a970d}
+      \strng{bibnamehash}{f5ddd344512f302e93ecee3d388a499c}
+      \strng{authorbibnamehash}{f5ddd344512f302e93ecee3d388a499c}
+      \strng{authornamehash}{f5ddd344512f302e93ecee3d388a499c}
+      \strng{authorfullhash}{d48dd23f3908eeb46ea4e0e0af8a970d}
+      \strng{authorfullhashraw}{d48dd23f3908eeb46ea4e0e0af8a970d}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0950-5423}
+      \field{journaltitle}{International Journal of Food Science and Technology}
+      \field{month}{01}
+      \field{number}{3}
+      \field{title}{Aroma compounds in fresh and dried mango fruit (Mangifera indica L. cv. Kent): impact of drying on volatile composition}
+      \field{volume}{51}
+      \field{year}{2016}
+      \field{pages}{789\bibrangedash 800}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1111/ijfs.13038
+      \endverb
+      \verb{eprint}
+      \verb https://academic.oup.com/ijfst/article-pdf/51/3/789/59497344/ijfs13038.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1111/ijfs.13038
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1111/ijfs.13038
+      \endverb
+    \endentry
     \entry{A06_Badar2016}{article}{}{}
       \name{author}{3}{}{%
         {{hash=5f4416ffc3fd66b86f1301fc7df779ef}{%
@@ -226,8 +288,8 @@
       \strng{authornamehash}{5af1789701d8fecb6ff46bf71152c836}
       \strng{authorfullhash}{5af1789701d8fecb6ff46bf71152c836}
       \strng{authorfullhashraw}{5af1789701d8fecb6ff46bf71152c836}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Acta Horticulturae}
@@ -277,8 +339,8 @@
       \strng{authornamehash}{2f1fee82dbcdde334b89116cef607196}
       \strng{authorfullhash}{03f1d40a83942c16e0dfbbedecbf1ae8}
       \strng{authorfullhashraw}{03f1d40a83942c16e0dfbbedecbf1ae8}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0120-2804}

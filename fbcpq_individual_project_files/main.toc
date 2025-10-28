@@ -4,22 +4,22 @@
 \contentsline {subsection}{\numberline {1.1}Background}{1}{subsection.1.1.1}%
 \contentsline {subsection}{\numberline {1.2}Focus on Mango}{1}{subsection.1.1.2}%
 \contentsline {subsection}{\numberline {1.3}Aim and Scope}{1}{subsection.1.1.3}%
-\contentsline {section}{\numberline {2}Aroma Composition in Mango}{2}{section.1.2}%
-\contentsline {subsection}{\numberline {2.1}Chemical Classes of Mango Aroma Compounds}{2}{subsection.1.2.1}%
-\contentsline {subsection}{\numberline {2.2}Key Aroma Compounds in Mango}{2}{subsection.1.2.2}%
-\contentsline {subsection}{\numberline {2.3}Variation in Aroma Profiles Among Mango Varieties}{2}{subsection.1.2.3}%
-\contentsline {section}{\numberline {3}Biochemical Pathways of Aroma Compound Formation}{2}{section.1.3}%
-\contentsline {subsection}{\numberline {3.1}Overview of Biosynthetic Pathways}{2}{subsection.1.3.1}%
-\contentsline {subsection}{\numberline {3.2}Enzymes Involved in Aroma Biosynthesis}{2}{subsection.1.3.2}%
-\contentsline {subsection}{\numberline {3.3}Terpenoid Pathway (MEP and MVA Pathways)}{2}{subsection.1.3.3}%
-\contentsline {subsection}{\numberline {3.4}Fatty Acid Derivative Pathway}{2}{subsection.1.3.4}%
-\contentsline {subsection}{\numberline {3.5}Amino Acid Derivative Pathway}{2}{subsection.1.3.5}%
-\contentsline {section}{\numberline {4}Environmental and Genetic Factors Influencing Aroma Production}{2}{section.1.4}%
-\contentsline {subsection}{\numberline {4.1}Pre-harvest Factors}{2}{subsection.1.4.1}%
-\contentsline {subsection}{\numberline {4.2}Post-harvest Factors}{2}{subsection.1.4.2}%
-\contentsline {subsection}{\numberline {4.3}Processing Implications on Aroma Retention}{2}{subsection.1.4.3}%
-\contentsline {section}{\numberline {5}Analytical Techniques for Aroma Compound Identification}{2}{section.1.5}%
-\contentsline {subsection}{\numberline {5.1}Extraction and Analysis Methods}{2}{subsection.1.5.1}%
-\contentsline {subsection}{\numberline {5.2}Quantification and Sensory Evaluation}{2}{subsection.1.5.2}%
-\contentsline {section}{\numberline {6}Comparative Perspective}{2}{section.1.6}%
-\contentsline {section}{\numberline {7}Conclusion}{2}{section.1.7}%
+\contentsline {section}{\numberline {2}Aroma Composition in Mango}{1}{section.1.2}%
+\contentsline {subsection}{\numberline {2.1}Chemical Classes of Mango Aroma Compounds}{1}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {2.2}Key Aroma Compounds in Mango}{3}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {2.3}Variation in Aroma Profiles Among Mango Varieties}{3}{subsection.1.2.3}%
+\contentsline {section}{\numberline {3}Biochemical Pathways of Aroma Compound Formation}{3}{section.1.3}%
+\contentsline {subsection}{\numberline {3.1}Overview of Biosynthetic Pathways}{3}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {3.2}Enzymes Involved in Aroma Biosynthesis}{3}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {3.3}Terpenoid Pathway (MEP and MVA Pathways)}{3}{subsection.1.3.3}%
+\contentsline {subsection}{\numberline {3.4}Fatty Acid Derivative Pathway}{3}{subsection.1.3.4}%
+\contentsline {subsection}{\numberline {3.5}Amino Acid Derivative Pathway}{3}{subsection.1.3.5}%
+\contentsline {section}{\numberline {4}Environmental and Genetic Factors Influencing Aroma Production}{3}{section.1.4}%
+\contentsline {subsection}{\numberline {4.1}Pre-harvest Factors}{3}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {4.2}Post-harvest Factors}{3}{subsection.1.4.2}%
+\contentsline {subsection}{\numberline {4.3}Processing Implications on Aroma Retention}{3}{subsection.1.4.3}%
+\contentsline {section}{\numberline {5}Analytical Techniques for Aroma Compound Identification}{3}{section.1.5}%
+\contentsline {subsection}{\numberline {5.1}Extraction and Analysis Methods}{3}{subsection.1.5.1}%
+\contentsline {subsection}{\numberline {5.2}Quantification and Sensory Evaluation}{3}{subsection.1.5.2}%
+\contentsline {section}{\numberline {6}Comparative Perspective}{3}{section.1.6}%
+\contentsline {section}{\numberline {7}Conclusion}{3}{section.1.7}%
